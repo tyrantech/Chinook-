@@ -21,7 +21,7 @@ SQL: Extracted and aggregated data from the Chinook database.
 
 Python / Pandas: Cleaned and analyzed query results.
 
-Looker Studio / Tableau / Matplotlib: Created dashboards to visualize insights.
+Looker Studio Created dashboards to visualize insights.
 
 📈 Key Insights
 
