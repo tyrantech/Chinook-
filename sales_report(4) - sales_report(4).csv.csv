@@ -1,0 +1,1319 @@
+FirstName,LastName,BillingCountry,BillingCity,billingState,Sale_FirstName,Sale_LastName,salesMade,ArtistName,AlbumName,GenreName,trackSales,invoiceSales,monthBucket
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,Lost,"Lost, Season 2",TV Shows,11.94,131.16,April
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,Lost,"Lost, Season 1",TV Shows,7.96,103.44,November
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,Lost,"Lost, Season 3",Drama,7.96,95.44,August
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1",Sci Fi & Fantasy,7.96,47.76,September
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,The Office,"The Office, Season 3",Comedy,7.96,31.84,September
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1",Sci Fi & Fantasy,7.96,31.84,June
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,The Office,"The Office, Season 2",TV Shows,5.97,65.58,Febuary
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,Lost,"Lost, Season 1",TV Shows,5.97,56.58,January
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Heroes,"Heroes, Season 1",Drama,5.97,53.73,January
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1",Sci Fi & Fantasy,5.97,26.82,June
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,Chico Science & Nação Zumbi,Afrociberdelia,Latin,5.94,35.64,Febuary
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,Kiss,Greatest Kiss,Rock,4.95,29.7,September
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,Chico Buarque,Minha Historia,Latin,4.95,29.7,May
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,The Who,My Generation - The Very Best Of The Who,Rock,4.95,29.7,November
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,Caetano Veloso,Prenda Minha,Latin,4.95,29.7,August
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Titãs,Acústico,Alternative & Punk,4.95,29.7,April
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,Heroes,"Heroes, Season 1",Drama,3.98,51.72,November
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,Lost,"Lost, Season 3",Drama,3.98,51.72,November
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,Heroes,"Heroes, Season 1",Drama,3.98,47.72,August
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,Lost,"Lost, Season 2",TV Shows,3.98,47.72,August
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,The Office,"The Office, Season 2",TV Shows,3.98,37.72,May
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Battlestar Galactica,"Battlestar Galactica, Season 3",Science Fiction,3.98,35.82,January
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,Lost,"LOST, Season 4",Drama,3.98,33.72,October
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Lost,"LOST, Season 4",Drama,3.98,31.72,June
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Battlestar Galactica,"Battlestar Galactica, Season 3",Science Fiction,3.98,29.82,April
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Heroes,"Heroes, Season 1",TV Shows,3.98,29.82,April
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,The Office,"The Office, Season 3",Comedy,3.98,23.88,September
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1",Sci Fi & Fantasy,3.98,7.96,March
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1",Sci Fi & Fantasy,3.98,7.96,June
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,The Office,"The Office, Season 3",TV Shows,3.98,7.96,September
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,The Office,"The Office, Season 3",TV Shows,3.98,7.96,September
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,Pop,3.96,43.64,October
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,Kiss,Greatest Kiss,Rock,3.96,35.64,January
+Roberto,Almeida,Brazil,Rio de Janeiro,RJ,Jane,Peacock,833,Chico Science & Nação Zumbi,Afrociberdelia,Latin,3.96,35.64,August
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Titãs,Acústico,Alternative & Punk,3.96,35.64,November
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,Creedence Clearwater Revival,"Chronicle, Vol. 1",Rock,3.96,35.64,Febuary
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Titãs,Volume Dois,Alternative & Punk,3.96,27.76,January
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Guns N' Roses,Use Your Illusion I,Rock,3.96,23.76,September
+Roberto,Almeida,Brazil,Rio de Janeiro,RJ,Jane,Peacock,833,Soundgarden,A-Sides,Rock,3.96,23.76,October
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,Creedence Clearwater Revival,"Chronicle, Vol. 2",Rock,3.96,23.76,July
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,James Brown,Sex Machine,R&B/Soul,3.96,23.76,July
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Toquinho & Vinícius,Vinícius De Moraes - Sem Limite,Bossa Nova,3.96,23.76,January
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Queen,Greatest Hits II,Rock,3.96,23.76,December
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Raul Seixas,Raul Seixas,Rock,3.96,23.76,November
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,Aerosmith,Big Ones,Rock,3.96,23.76,January
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,U2,Rattle And Hum,Rock,3.96,23.76,August
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Cássia Eller,Cássia Eller - Coleção Sem Limite [Disc 2],Latin,3.96,23.76,April
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,Eric Clapton,Unplugged,Latin,3.96,23.76,April
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,R.E.M.,The Best Of R.E.M.: The IRS Years,Alternative & Punk,3.96,23.76,Febuary
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,Queen,Greatest Hits I,Rock,3.96,15.84,September
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,R.E.M.,The Best Of R.E.M.: The IRS Years,Alternative & Punk,3.96,15.84,November
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,The Tea Party,Transmission,Alternative & Punk,3.96,15.84,November
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Djavan,Djavan Ao Vivo - Vol. 1,Latin,3.96,15.84,March
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Kiss,Greatest Kiss,Rock,3.96,15.84,June
+Roberto,Almeida,Brazil,Rio de Janeiro,RJ,Jane,Peacock,833,Men At Work,The Best Of Men At Work,Rock,3.96,15.84,July
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Iron Maiden,Rock In Rio [CD1],Metal,3.96,15.84,January
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,Gene Krupa,Up An' Atom,Jazz,3.96,15.84,January
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Chico Buarque,Minha Historia,Latin,3.96,15.84,Febuary
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,Metallica,Load,Metal,3.96,15.84,December
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,U2,Pop,Rock,3.96,15.84,August
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Eric Clapton,Unplugged,Blues,3.96,15.84,August
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,Creedence Clearwater Revival,"Chronicle, Vol. 2",Rock,3.96,15.84,April
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Queen,Greatest Hits II,Rock,3.96,15.84,September
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,Metallica,ReLoad,Metal,3.96,15.84,September
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,Smashing Pumpkins,Rotten Apples: Greatest Hits,Alternative & Punk,3.96,15.84,October
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Caetano Veloso,Prenda Minha,Latin,3.96,15.84,May
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Metallica,Garage Inc. (Disc 2),Metal,3.96,15.84,March
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,Pop,3.96,15.84,March
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Creedence Clearwater Revival,"Chronicle, Vol. 1",Rock,3.96,15.84,July
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Iron Maiden,The X Factor,Rock,3.96,15.84,July
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,AC/DC,For Those About To Rock We Salute You,Rock,3.96,15.84,January
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,R.E.M.,New Adventures In Hi-Fi,Rock,3.96,15.84,Febuary
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,Antônio Carlos Jobim,Chill: Brazil (Disc 2),Latin,3.96,15.84,December
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,System Of A Down,Mezmerize,Metal,3.96,15.84,December
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,Tim Maia,Serie Sem Limite (Disc 2),Latin,3.96,15.84,April
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Body Count,Body Count,Alternative & Punk,3.96,15.84,November
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Stevie Ray Vaughan & Double Trouble,In Step,Blues,3.96,15.84,March
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,Green Day,International Superhits,Alternative & Punk,3.96,15.84,March
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Guns N' Roses,Use Your Illusion I,Rock,3.96,15.84,June
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,Soundgarden,A-Sides,Rock,3.96,15.84,June
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,The Who,My Generation - The Very Best Of The Who,Rock,3.96,15.84,July
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,Titãs,Acústico,Alternative & Punk,3.96,15.84,January
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,U2,B-Sides 1980-1990,Rock,3.96,15.84,December
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,Os Paralamas Do Sucesso,Acústico MTV,Latin,3.96,15.84,April
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,Zeca Pagodinho,Ao Vivo [IMPORT],Latin,2.97,56.58,May
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Titãs,Volume Dois,Alternative & Punk,2.97,44.73,April
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Os Paralamas Do Sucesso,Acústico MTV,Latin,2.97,41.58,September
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Gene Krupa,Up An' Atom,Jazz,2.97,41.58,March
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,Lulu Santos,Lulu Santos - RCA 100 Anos De Música - Álbum 01,Latin,2.97,41.58,March
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Frank Sinatra,My Way: The Best Of Frank Sinatra [Disc 1],Easy Listening,2.97,41.58,May
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Frank Sinatra,My Way: The Best Of Frank Sinatra [Disc 1],Easy Listening,2.97,41.58,December
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,The Who,My Generation - The Very Best Of The Who,Rock,2.97,41.58,December
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Titãs,Acústico,Alternative & Punk,2.97,32.73,July
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Titãs,Volume Dois,Alternative & Punk,2.97,32.73,July
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,House Of Pain,House of Pain,Hip Hop/Rap,2.97,29.73,March
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,O Rappa,Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro,Electronica/Dance,2.97,29.73,March
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,Pop,2.97,26.82,June
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,James Brown,Sex Machine,R&B/Soul,2.97,26.73,October
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,Creedence Clearwater Revival,"Chronicle, Vol. 2",Rock,2.97,26.73,October
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,Cássia Eller,Cássia Eller - Coleção Sem Limite [Disc 2],Latin,2.97,26.73,October
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Legião Urbana,A TempestadeTempestade Ou O Livro Dos Dias,Latin,2.97,26.73,November
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,The Clash,The Singles,Alternative & Punk,2.97,26.73,March
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,Green Day,International Superhits,Alternative & Punk,2.97,26.73,January
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,Cidade Negra,Acústico MTV [Live],Reggae,2.97,26.73,Febuary
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,Guns N' Roses,Use Your Illusion II,Metal,2.97,26.73,December
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,The Clash,The Singles,Alternative & Punk,2.97,26.73,December
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,The Cult,"Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",Rock,2.97,26.73,December
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Latin,2.97,26.73,August
+Roberto,Almeida,Brazil,Rio de Janeiro,RJ,Jane,Peacock,833,Chico Buarque,Minha Historia,Latin,2.97,26.73,August
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,Legião Urbana,A TempestadeTempestade Ou O Livro Dos Dias,Latin,2.97,26.73,August
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,Lenny Kravitz,Greatest Hits,Rock,2.97,26.73,August
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Aerosmith,Big Ones,Rock,2.97,26.73,April
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Milton Nascimento,Milton Nascimento Ao Vivo,Latin,2.97,26.73,September
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,Faith No More,Angel Dust,Alternative & Punk,2.97,26.73,November
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Red Hot Chili Peppers,Blood Sugar Sex Magik,Alternative & Punk,2.97,26.73,November
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Red Hot Chili Peppers,Californication,Rock,2.97,26.73,November
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Chico Science & Nação Zumbi,Afrociberdelia,Latin,2.97,26.73,May
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Chico Science & Nação Zumbi,Da Lama Ao Caos,Latin,2.97,26.73,May
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Van Halen,"The Best Of Van Halen, Vol. I",Rock,2.97,26.73,May
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Cássia Eller,Cássia Eller - Coleção Sem Limite [Disc 2],Latin,2.97,26.73,July
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,Raul Seixas,Raul Seixas,Rock,2.97,26.73,Febuary
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,Red Hot Chili Peppers,By The Way,Rock,2.97,26.73,Febuary
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,Creedence Clearwater Revival,"Chronicle, Vol. 2",Rock,2.97,26.73,Febuary
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,U2,Rattle And Hum,Rock,2.97,26.73,December
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,Green Day,American Idiot,Alternative & Punk,2.97,26.73,April
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,Green Day,International Superhits,Alternative & Punk,2.97,26.73,September
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Falamansa,Deixa Entrar,Latin,2.97,26.73,May
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Os Mutantes,Minha História,Alternative & Punk,2.97,26.73,March
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,Gonzaguinha,Meus Momentos,Latin,2.97,26.73,June
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,House Of Pain,House of Pain,Hip Hop/Rap,2.97,26.73,June
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Passengers,Original Soundtracks 1,Soundtrack,2.97,26.73,January
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,James Brown,Sex Machine,R&B/Soul,2.97,26.73,January
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Van Halen,"The Best Of Van Halen, Vol. I",Rock,2.97,26.73,Febuary
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Caetano Veloso,Prenda Minha,Latin,2.97,26.73,December
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Chico Buarque,Minha Historia,Latin,2.97,26.73,December
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Queen,News Of The World,Rock,2.97,17.82,September
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,Bruce Dickinson,Chemical Wedding,Metal,2.97,17.82,November
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,R.E.M.,New Adventures In Hi-Fi,Rock,2.97,17.82,May
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Faith No More,King For A Day Fool For A Lifetime,Rock,2.97,17.82,May
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,Stone Temple Pilots,Core,Rock,2.97,17.82,March
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Iron Maiden,Rock In Rio [CD2],Rock,2.97,17.82,January
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,UB40,UB40 The Best Of - Volume Two [UK],Reggae,2.97,17.82,Febuary
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,U2,Pop,Rock,2.97,17.82,December
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Os Paralamas Do Sucesso,Arquivo II,Latin,2.97,17.82,April
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Iron Maiden,The X Factor,Rock,2.97,17.82,October
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Creedence Clearwater Revival,"Chronicle, Vol. 1",Rock,2.97,17.82,October
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Various Artists,Vozes do MPB,Latin,2.97,17.82,October
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Ozzy Osbourne,Tribute,Metal,2.97,17.82,October
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Page & Plant,Walking Into Clarksdale,Rock,2.97,17.82,October
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,U2,The Best Of 1980-1990,Rock,2.97,17.82,May
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,Ozzy Osbourne,Speak of the Devil,Rock,2.97,17.82,March
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,Pop,2.97,17.82,March
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,Green Day,International Superhits,Alternative & Punk,2.97,17.82,June
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,Spyro Gyra,Heart of the Night,Jazz,2.97,17.82,June
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Metallica,Black Album,Metal,2.97,17.82,July
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Metallica,Garage Inc. (Disc 2),Metal,2.97,17.82,July
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Latin,2.97,17.82,January
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Metallica,ReLoad,Metal,2.97,17.82,December
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Green Day,American Idiot,Alternative & Punk,2.97,17.82,December
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,The Black Crowes,Live [Disc 1],Blues,2.97,17.82,December
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Faith No More,Album Of The Year,Alternative & Punk,2.97,17.82,August
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Metallica,St. Anger,Metal,2.97,17.82,September
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,Amy Winehouse,Back to Black,R&B/Soul,2.97,17.82,October
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Eric Clapton,The Cream Of Clapton,Blues,2.97,17.82,November
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Eric Clapton,Unplugged,Blues,2.97,17.82,November
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Metallica,Kill 'Em All,Metal,2.97,17.82,March
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Elis Regina,Elis Regina-Minha História,Latin,2.97,17.82,March
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,David Coverdale,Into The Light,Rock,2.97,17.82,March
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,Green Day,International Superhits,Alternative & Punk,2.97,17.82,March
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,Guns N' Roses,Use Your Illusion II,Metal,2.97,17.82,June
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,Incognito,Blue Moods,Jazz,2.97,17.82,June
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,Tim Maia,Serie Sem Limite (Disc 1),Latin,2.97,17.82,July
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,Tim Maia,Serie Sem Limite (Disc 2),Latin,2.97,17.82,July
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,Olodum,Olodum,Latin,2.97,17.82,August
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,Os Paralamas Do Sucesso,Acústico MTV,Latin,2.97,17.82,August
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,AC/DC,For Those About To Rock We Salute You,Rock,2.97,17.82,April
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Toquinho & Vinícius,Vinícius De Moraes - Sem Limite,Bossa Nova,2.97,11.88,October
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Faith No More,Angel Dust,Alternative & Punk,2.97,11.88,May
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Kiss,Unplugged [Live],Rock,2.97,11.88,June
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,U2,War,Rock,2.97,11.88,Febuary
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Led Zeppelin,Led Zeppelin II,Rock,2.97,11.88,August
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Gilberto Gil,Quanta Gente Veio Ver (Live),Latin,2.97,11.88,April
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,U2,Rattle And Hum,Rock,2.97,11.88,May
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,Iron Maiden,No Prayer For The Dying,Metal,2.97,11.88,May
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Os Paralamas Do Sucesso,Arquivo II,Latin,2.97,11.88,January
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Godsmack,Faceless,Metal,2.97,11.88,December
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,O Terço,Compositores,Rock,2.97,11.88,August
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Buddy Guy,The Best Of Buddy Guy - The Millenium Collection,Blues,2.97,11.88,August
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,Battlestar Galactica,"Battlestar Galactica, Season 3",Science Fiction,1.99,25.86,November
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,Battlestar Galactica,"Battlestar Galactica, Season 3",TV Shows,1.99,25.86,November
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,Lost,"Lost, Season 2",Drama,1.99,25.86,November
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,Lost,"Lost, Season 2",TV Shows,1.99,25.86,November
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,Battlestar Galactica,"Battlestar Galactica, Season 3",Sci Fi & Fantasy,1.99,23.86,August
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,Lost,"Lost, Season 1",TV Shows,1.99,23.86,August
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1",Sci Fi & Fantasy,1.99,21.86,Febuary
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,Heroes,"Heroes, Season 1",Drama,1.99,21.86,Febuary
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,Lost,"Lost, Season 3",Drama,1.99,21.86,Febuary
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,The Office,"The Office, Season 3",Comedy,1.99,21.86,Febuary
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,The Office,"The Office, Season 3",TV Shows,1.99,21.86,Febuary
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,Lost,"Lost, Season 1",TV Shows,1.99,21.86,April
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,Lost,"Lost, Season 2",Drama,1.99,21.86,April
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,The Office,"The Office, Season 1",TV Shows,1.99,18.86,May
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,The Office,"The Office, Season 3",Comedy,1.99,18.86,May
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,The Office,"The Office, Season 3",TV Shows,1.99,18.86,May
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,Lost,"Lost, Season 2",Drama,1.99,18.86,January
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,Lost,"Lost, Season 2",TV Shows,1.99,18.86,January
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Battlestar Galactica,"Battlestar Galactica, Season 3",Sci Fi & Fantasy,1.99,17.91,January
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Lost,"Lost, Season 1",TV Shows,1.99,17.91,January
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Lost,"Lost, Season 3",Drama,1.99,17.91,January
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Lost,"Lost, Season 3",TV Shows,1.99,17.91,January
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,Lost,"LOST, Season 4",TV Shows,1.99,16.86,October
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,Heroes,"Heroes, Season 1",Drama,1.99,16.86,September
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,The Office,"The Office, Season 1",TV Shows,1.99,16.86,September
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,The Office,"The Office, Season 2",TV Shows,1.99,16.86,September
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Lost,"LOST, Season 4",TV Shows,1.99,15.86,March
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,The Office,"The Office, Season 3",Comedy,1.99,15.86,March
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Battlestar Galactica,"Battlestar Galactica, Season 3",TV Shows,1.99,14.91,April
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Heroes,"Heroes, Season 1",Drama,1.99,14.91,April
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Aquaman,Aquaman,TV Shows,1.99,10.91,October
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1",Sci Fi & Fantasy,1.99,10.91,October
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Battlestar Galactica,"Battlestar Galactica, Season 3",Science Fiction,1.99,10.91,July
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Battlestar Galactica,"Battlestar Galactica, Season 3",TV Shows,1.99,10.91,July
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Lost,"LOST, Season 4",Drama,1.99,9.91,March
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Battlestar Galactica,"Battlestar Galactica, Season 3",TV Shows,1.99,6.94,January
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Aquaman,Aquaman,TV Shows,1.99,3.98,March
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Lost,"Lost, Season 3",Drama,1.99,3.98,March
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Lost,"Lost, Season 3",Drama,1.99,2.98,June
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,The Office,"The Office, Season 3",TV Shows,1.99,1.99,September
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1",Sci Fi & Fantasy,1.99,1.99,Febuary
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,The Office,"The Office, Season 1",TV Shows,1.99,1.99,December
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Heroes,"Heroes, Season 1",Drama,1.99,1.99,June
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,U2,Achtung Baby,Rock,1.98,47.72,August
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,Lenny Kravitz,Greatest Hits,Metal,1.98,43.72,Febuary
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,Zeca Pagodinho,Ao Vivo [IMPORT],Latin,1.98,43.72,Febuary
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,U2,B-Sides 1980-1990,Rock,1.98,43.72,April
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,Van Halen,Van Halen III,Rock,1.98,37.72,May
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,Vinícius De Moraes,Vinicius De Moraes,Latin,1.98,37.72,May
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,U2,Achtung Baby,Rock,1.98,37.72,January
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,U2,How To Dismantle An Atomic Bomb,Rock,1.98,37.72,January
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,U2,Rattle And Hum,Rock,1.98,37.72,January
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,Audioslave,Revelations,Alternative,1.98,33.72,October
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,House Of Pain,House of Pain,Hip Hop/Rap,1.98,33.72,October
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,O Rappa,Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro,Electronica/Dance,1.98,33.72,October
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,Lenny Kravitz,Greatest Hits,Metal,1.98,33.72,September
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,Van Halen,"The Best Of Van Halen, Vol. I",Rock,1.98,33.72,September
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,Velvet Revolver,Contraband,Rock,1.98,33.72,September
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,Zeca Pagodinho,Ao Vivo [IMPORT],Latin,1.98,33.72,September
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Amy Winehouse,Back to Black,R&B/Soul,1.98,31.72,March
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Audioslave,Revelations,Alternative,1.98,31.72,March
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Temple of the Dog,Temple of the Dog,Alternative,1.98,31.72,March
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Chris Cornell,Carry On,Alternative,1.98,31.72,June
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,O Rappa,Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro,Electronica/Dance,1.98,31.72,June
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,Chico Buarque,Minha Historia,Latin,1.98,27.72,September
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,Gene Krupa,Up An' Atom,Jazz,1.98,27.72,September
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,Miles Davis,The Essential Miles Davis [Disc 1],Jazz,1.98,27.72,September
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,Santana,Supernatural,Rock,1.98,27.72,September
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Def Leppard,Vault: Def Leppard's Greatest Hits,Rock,1.98,27.72,October
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Lulu Santos,Lulu Santos - RCA 100 Anos De Música - Álbum 01,Latin,1.98,27.72,November
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Marillion,Misplaced Childhood,Rock,1.98,27.72,November
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Marisa Monte,Barulhinho Bom,Latin,1.98,27.72,November
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Marvin Gaye,Seek And Shall Find: More Of The Best (1963-1981),R&B/Soul,1.98,27.72,November
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,Pearl Jam,Live On Two Legs [Live],Rock,1.98,27.72,May
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,Pearl Jam,Pearl Jam,Alternative & Punk,1.98,27.72,May
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,Pearl Jam,Vs.,Rock,1.98,27.72,May
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,Planet Hemp,Os Cães Ladram Mas A Caravana Não Pára,Hip Hop/Rap,1.98,27.72,May
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,Legião Urbana,A TempestadeTempestade Ou O Livro Dos Dias,Latin,1.98,27.72,June
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,Legião Urbana,Mais Do Mesmo,Latin,1.98,27.72,June
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,Lulu Santos,Lulu Santos - RCA 100 Anos De Música - Álbum 01,Latin,1.98,27.72,June
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,Lulu Santos,Lulu Santos - RCA 100 Anos De Música - Álbum 02,Latin,1.98,27.72,June
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,Marisa Monte,Barulhinho Bom,Latin,1.98,27.72,June
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Jorge Ben,Jorge Ben Jor 25 Anos,Latin,1.98,27.72,July
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,João Suplicy,Cafezinho,World,1.98,27.72,July
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Kiss,Unplugged [Live],Rock,1.98,27.72,July
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,Def Leppard,Vault: Def Leppard's Greatest Hits,Rock,1.98,27.72,July
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,Djavan,Djavan Ao Vivo - Vol. 02,Latin,1.98,27.72,July
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,Elis Regina,Elis Regina-Minha História,Latin,1.98,27.72,July
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Alice In Chains,Facelift,Rock,1.98,27.72,July
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Audioslave,Audioslave,Rock,1.98,27.72,July
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Black Label Society,Alcohol Fueled Brewtality Live! [Disc 1],Metal,1.98,27.72,July
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Cássia Eller,Cássia Eller - Sem Limite [Disc 1],Latin,1.98,27.72,Febuary
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Deep Purple,The Battle Rages On,Rock,1.98,27.72,Febuary
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,Red Hot Chili Peppers,Californication,Rock,1.98,27.72,Febuary
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,Skank,Maquinarama,Rock,1.98,27.72,Febuary
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,Smashing Pumpkins,Judas 0: B-Sides and Rarities,Alternative & Punk,1.98,27.72,Febuary
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,Smashing Pumpkins,Rotten Apples: Greatest Hits,Alternative & Punk,1.98,27.72,Febuary
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Chico Science & Nação Zumbi,Da Lama Ao Caos,Latin,1.98,27.72,December
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Cidade Negra,Acústico MTV [Live],Reggae,1.98,27.72,December
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Various Artists,Axé Bahia 2001,Pop,1.98,27.72,December
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Various Artists,Carnaval 2001,Soundtrack,1.98,27.72,December
+Roberto,Almeida,Brazil,Rio de Janeiro,RJ,Jane,Peacock,833,Milton Nascimento,Minas,Latin,1.98,27.72,December
+Roberto,Almeida,Brazil,Rio de Janeiro,RJ,Jane,Peacock,833,Mônica Marianno,Demorou...,World,1.98,27.72,December
+Roberto,Almeida,Brazil,Rio de Janeiro,RJ,Jane,Peacock,833,Nirvana,From The Muddy Banks Of The Wishkah [Live],Rock,1.98,27.72,December
+Roberto,Almeida,Brazil,Rio de Janeiro,RJ,Jane,Peacock,833,Nirvana,Nevermind,Rock,1.98,27.72,December
+Roberto,Almeida,Brazil,Rio de Janeiro,RJ,Jane,Peacock,833,Olodum,Olodum,Latin,1.98,27.72,December
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,Lenny Kravitz,Greatest Hits,Metal,1.98,27.72,December
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,Van Halen,"The Best Of Van Halen, Vol. I",Rock,1.98,27.72,December
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,Van Halen,Van Halen,Rock,1.98,27.72,December
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,Vinícius De Moraes,Vinicius De Moraes,Latin,1.98,27.72,December
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,Zeca Pagodinho,Ao Vivo [IMPORT],Latin,1.98,27.72,December
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Foo Fighters,The Colour And The Shape,Rock,1.98,27.72,August
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Frank Sinatra,My Way: The Best Of Frank Sinatra [Disc 1],Easy Listening,1.98,27.72,August
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Funk Como Le Gusta,Roda De Funk,Latin,1.98,27.72,August
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Gilberto Gil,As Canções de Eu Tu Eles,Soundtrack,1.98,27.72,August
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Lulu Santos,Lulu Santos - RCA 100 Anos De Música - Álbum 02,Latin,1.98,27.72,August
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Marisa Monte,Barulhinho Bom,Latin,1.98,27.72,August
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Marvin Gaye,Seek And Shall Find: More Of The Best (1963-1981),R&B/Soul,1.98,27.72,August
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Metallica,Garage Inc. (Disc 2),Metal,1.98,27.72,August
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Audioslave,Audioslave,Rock,1.98,27.72,April
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,BackBeat,BackBeat Soundtrack,Rock And Roll,1.98,27.72,April
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Body Count,Body Count,Alternative & Punk,1.98,27.72,April
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Bruce Dickinson,Chemical Wedding,Metal,1.98,27.72,April
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Def Leppard,Vault: Def Leppard's Greatest Hits,Rock,1.98,27.72,April
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Djavan,Djavan Ao Vivo - Vol. 1,Latin,1.98,27.72,April
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Eric Clapton,The Cream Of Clapton,Blues,1.98,27.72,April
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Mötley Crüe,Motley Crue Greatest Hits,Metal,1.98,27.72,September
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Nirvana,From The Muddy Banks Of The Wishkah [Live],Rock,1.98,27.72,September
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,O Terço,Compositores,Rock,1.98,27.72,September
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Iron Maiden,Dance Of Death,Heavy Metal,1.98,27.72,September
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Iron Maiden,Live After Death,Metal,1.98,27.72,September
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,The Clash,The Singles,Alternative & Punk,1.98,27.72,October
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,The Cult,Beyond Good And Evil,Rock,1.98,27.72,October
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,The Cult,"Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",Rock,1.98,27.72,October
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,The Police,The Police Greatest Hits,Rock,1.98,27.72,October
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,The Rolling Stones,Voodoo Lounge,Rock,1.98,27.72,October
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Alanis Morissette,Jagged Little Pill,Rock,1.98,27.72,November
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Antônio Carlos Jobim,Warner 25 Anos,Jazz,1.98,27.72,November
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,BackBeat,BackBeat Soundtrack,Rock And Roll,1.98,27.72,November
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Lenny Kravitz,Greatest Hits,Rock,1.98,27.72,November
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Smashing Pumpkins,Judas 0: B-Sides and Rarities,Alternative & Punk,1.98,27.72,November
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Smashing Pumpkins,Rotten Apples: Greatest Hits,Alternative & Punk,1.98,27.72,November
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Soundgarden,A-Sides,Rock,1.98,27.72,November
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,The Cult,"Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",Rock,1.98,27.72,March
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,The Rolling Stones,"Hot Rocks, 1964-1971 (Disc 1)",Rock,1.98,27.72,March
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,The Rolling Stones,Voodoo Lounge,Rock,1.98,27.72,March
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,The Tea Party,Tangents,Alternative & Punk,1.98,27.72,March
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,The Who,My Generation - The Very Best Of The Who,Rock,1.98,27.72,March
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Falamansa,Deixa Entrar,Latin,1.98,27.72,March
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Foo Fighters,The Colour And The Shape,Rock,1.98,27.72,March
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Frank Sinatra,My Way: The Best Of Frank Sinatra [Disc 1],Easy Listening,1.98,27.72,March
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Funk Como Le Gusta,Roda De Funk,Latin,1.98,27.72,March
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Miles Davis,The Essential Miles Davis [Disc 1],Jazz,1.98,27.72,March
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Santana,Supernatural,Rock,1.98,27.72,March
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Various Artists,Vozes do MPB,Latin,1.98,27.72,March
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,Legião Urbana,Mais Do Mesmo,Latin,1.98,27.72,March
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,Lenny Kravitz,Greatest Hits,Rock,1.98,27.72,March
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,Marisa Monte,Barulhinho Bom,Latin,1.98,27.72,March
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,Marvin Gaye,Seek And Shall Find: More Of The Best (1963-1981),R&B/Soul,1.98,27.72,March
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,Ed Motta,The Best of Ed Motta,Latin,1.98,27.72,June
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,Gene Krupa,Up An' Atom,Jazz,1.98,27.72,June
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,Toquinho & Vinícius,Vinícius De Moraes - Sem Limite,Bossa Nova,1.98,27.72,June
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,Various Artists,Sambas De Enredo 2001,Latin,1.98,27.72,June
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,Lenny Kravitz,Greatest Hits,Rock,1.98,27.72,June
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,Red Hot Chili Peppers,Californication,Rock,1.98,27.72,June
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,Rush,Retrospective I (1974-1980),Rock,1.98,27.72,June
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,Smashing Pumpkins,Judas 0: B-Sides and Rarities,Alternative & Punk,1.98,27.72,June
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Ed Motta,The Best of Ed Motta,Latin,1.98,27.72,January
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Gonzaguinha,Meus Momentos,Latin,1.98,27.72,January
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Os Mutantes,Minha História,Alternative & Punk,1.98,27.72,January
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Various Artists,Sambas De Enredo 2001,Latin,1.98,27.72,January
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Audioslave,Out Of Exile,Alternative & Punk,1.98,27.72,January
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Body Count,Body Count,Alternative & Punk,1.98,27.72,January
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Caetano Veloso,Prenda Minha,Latin,1.98,27.72,January
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Iron Maiden,A Real Dead One,Metal,1.98,27.72,January
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Iron Maiden,Fear Of The Dark,Rock,1.98,27.72,January
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Jamiroquai,Synkronized,R&B/Soul,1.98,27.72,Febuary
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Jimi Hendrix,Are You Experienced?,Rock,1.98,27.72,Febuary
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Jorge Ben,Jorge Ben Jor 25 Anos,Latin,1.98,27.72,Febuary
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,João Suplicy,Cafezinho,World,1.98,27.72,Febuary
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Lenny Kravitz,Greatest Hits,Reggae,1.98,27.72,August
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Passengers,Original Soundtracks 1,Soundtrack,1.98,27.72,August
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Pearl Jam,Live On Two Legs [Live],Rock,1.98,27.72,August
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Pearl Jam,Riot Act,Rock,1.98,27.72,August
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Incognito,Blue Moods,Jazz,1.98,27.72,April
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Iron Maiden,Brave New World,Rock,1.98,27.72,April
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Iron Maiden,Live After Death,Metal,1.98,27.72,April
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Red Hot Chili Peppers,Blood Sugar Sex Magik,Alternative & Punk,1.98,27.72,September
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Red Hot Chili Peppers,By The Way,Rock,1.98,27.72,September
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Red Hot Chili Peppers,Californication,Rock,1.98,27.72,September
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Skank,Maquinarama,Rock,1.98,27.72,September
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,Pearl Jam,Vs.,Rock,1.98,27.72,October
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,Planet Hemp,Os Cães Ladram Mas A Caravana Não Pára,Hip Hop/Rap,1.98,27.72,October
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,Queen,Greatest Hits I,Rock,1.98,27.72,October
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,R.E.M.,Green,Alternative & Punk,1.98,27.72,October
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,JET,Get Born,Alternative & Punk,1.98,27.72,October
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,Jimi Hendrix,Are You Experienced?,Rock,1.98,27.72,October
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,Jota Quest,Jota Quest-1995,Latin,1.98,27.72,October
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,Judas Priest,Living After Midnight,Metal,1.98,27.72,October
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,Kiss,Unplugged [Live],Rock,1.98,27.72,October
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Eric Clapton,Unplugged,Latin,1.98,27.72,May
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Funk Como Le Gusta,Roda De Funk,Latin,1.98,27.72,May
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Gilberto Gil,Quanta Gente Veio Ver (Live),Latin,1.98,27.72,May
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Green Day,American Idiot,Alternative & Punk,1.98,27.72,May
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Antônio Carlos Jobim,Chill: Brazil (Disc 2),Latin,1.98,27.72,May
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Marcos Valle,Chill: Brazil (Disc 1),Latin,1.98,27.72,May
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Various Artists,Axé Bahia 2001,Pop,1.98,27.72,May
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Various Artists,Carnaval 2001,Soundtrack,1.98,27.72,May
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,JET,Get Born,Alternative & Punk,1.98,27.72,May
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,James Brown,Sex Machine,R&B/Soul,1.98,27.72,May
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,Jimi Hendrix,Are You Experienced?,Rock,1.98,27.72,May
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,Jota Quest,Jota Quest-1995,Latin,1.98,27.72,May
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Iron Maiden,Killers,Heavy Metal,1.98,27.72,June
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,The Cult,"Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",Rock,1.98,27.72,July
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,The Police,The Police Greatest Hits,Rock,1.98,27.72,July
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,The Rolling Stones,No Security,Rock,1.98,27.72,July
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,The Rolling Stones,Voodoo Lounge,Rock,1.98,27.72,July
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Miles Davis,Miles Ahead,Jazz,1.98,27.72,July
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Milton Nascimento,Minas,Latin,1.98,27.72,July
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Mônica Marianno,Demorou...,World,1.98,27.72,July
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Mötley Crüe,Motley Crue Greatest Hits,Metal,1.98,27.72,July
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,Lenny Kravitz,Greatest Hits,Reggae,1.98,27.72,January
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,Pearl Jam,Riot Act,Rock,1.98,27.72,January
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,Queen,Greatest Hits I,Rock,1.98,27.72,January
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,Queen,News Of The World,Rock,1.98,27.72,January
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Antônio Carlos Jobim,Chill: Brazil (Disc 2),Latin,1.98,27.72,Febuary
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Kiss,Greatest Kiss,Rock,1.98,27.72,Febuary
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Led Zeppelin,BBC Sessions [Disc 1] [Live],Rock,1.98,27.72,Febuary
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Marcos Valle,Chill: Brazil (Disc 1),Latin,1.98,27.72,Febuary
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Queen,Greatest Hits II,Rock,1.98,27.72,Febuary
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Foo Fighters,In Your Honor [Disc 2],Rock,1.98,27.72,December
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Funk Como Le Gusta,Roda De Funk,Latin,1.98,27.72,December
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Gilberto Gil,Quanta Gente Veio Ver (Live),Latin,1.98,27.72,December
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,The Police,The Police Greatest Hits,Rock,1.98,27.72,December
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,The Rolling Stones,No Security,Rock,1.98,27.72,December
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,The Tea Party,Tangents,Alternative & Punk,1.98,27.72,December
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,Antônio Carlos Jobim,Chill: Brazil (Disc 2),Latin,1.98,27.72,August
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,Cidade Negra,Acústico MTV [Live],Reggae,1.98,27.72,August
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,Cidade Negra,Cidade Negra - Hits,Reggae,1.98,27.72,August
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,Led Zeppelin,BBC Sessions [Disc 1] [Live],Rock,1.98,27.72,August
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,Marcos Valle,Chill: Brazil (Disc 1),Latin,1.98,27.72,August
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Milton Nascimento,Milton Nascimento Ao Vivo,Latin,1.98,27.72,April
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Motörhead,Ace Of Spades,Metal,1.98,27.72,April
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Mötley Crüe,Motley Crue Greatest Hits,Metal,1.98,27.72,April
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Nirvana,From The Muddy Banks Of The Wishkah [Live],Rock,1.98,27.72,April
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,O Terço,Compositores,Rock,1.98,27.72,April
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Ozzy Osbourne,Speak of the Devil,Rock,1.98,21.82,October
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Scorpions,20th Century Masters - The Millennium Collection: The Best of Scorpions,Rock,1.98,19.82,March
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,Jamiroquai,Emergency On Planet Earth,Rock,1.98,17.82,October
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,Jamiroquai,Synkronized,R&B/Soul,1.98,17.82,October
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Spyro Gyra,Morning Dance,Jazz,1.98,17.82,October
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Stone Temple Pilots,Core,Rock,1.98,17.82,October
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,System Of A Down,Mezmerize,Metal,1.98,17.82,October
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,Cássia Eller,Cássia Eller - Sem Limite [Disc 1],Latin,1.98,17.82,October
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Led Zeppelin,Presence,Rock,1.98,17.82,November
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,R.E.M.,The Best Of R.E.M.: The IRS Years,Alternative & Punk,1.98,17.82,May
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,Raimundos,Cesta Básica,Alternative & Punk,1.98,17.82,May
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,Raul Seixas,Raul Seixas,Rock,1.98,17.82,May
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,Red Hot Chili Peppers,Blood Sugar Sex Magik,Alternative & Punk,1.98,17.82,May
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,The Black Crowes,Live [Disc 2],Blues,1.98,17.82,March
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,The Cult,Beyond Good And Evil,Rock,1.98,17.82,March
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Metallica,...And Justice For All,Metal,1.98,17.82,March
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Metallica,ReLoad,Metal,1.98,17.82,March
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Metallica,St. Anger,Metal,1.98,17.82,March
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,Led Zeppelin,In Through The Out Door,Rock,1.98,17.82,June
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,Led Zeppelin,Led Zeppelin II,Rock,1.98,17.82,June
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,Led Zeppelin,Led Zeppelin III,Rock,1.98,17.82,June
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,System Of A Down,Mezmerize,Metal,1.98,17.82,June
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,The Black Crowes,Live [Disc 1],Blues,1.98,17.82,June
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,The Black Crowes,Live [Disc 2],Blues,1.98,17.82,June
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,AC/DC,For Those About To Rock We Salute You,Rock,1.98,17.82,July
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Aerosmith,Big Ones,Rock,1.98,17.82,July
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Alanis Morissette,Jagged Little Pill,Rock,1.98,17.82,July
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,Spyro Gyra,Heart of the Night,Jazz,1.98,17.82,January
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,Chico Science & Nação Zumbi,Da Lama Ao Caos,Latin,1.98,17.82,Febuary
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,Cidade Negra,Cidade Negra - Hits,Reggae,1.98,17.82,Febuary
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,Cláudio Zoli,Na Pista,Latin,1.98,17.82,Febuary
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Metallica,...And Justice For All,Metal,1.98,17.82,December
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Metallica,Ride The Lightning,Metal,1.98,17.82,December
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Miles Davis,Miles Ahead,Jazz,1.98,17.82,December
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Milton Nascimento,Milton Nascimento Ao Vivo,Latin,1.98,17.82,December
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,Guns N' Roses,Use Your Illusion I,Rock,1.98,17.82,December
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,Incognito,Blue Moods,Jazz,1.98,17.82,December
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,The Cult,Beyond Good And Evil,Rock,1.98,17.82,December
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Os Paralamas Do Sucesso,Arquivo II,Latin,1.98,17.82,August
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Ozzy Osbourne,Tribute,Metal,1.98,17.82,August
+Roberto,Almeida,Brazil,Rio de Janeiro,RJ,Jane,Peacock,833,Chico Science & Nação Zumbi,Da Lama Ao Caos,Latin,1.98,17.82,August
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,Legião Urbana,Mais Do Mesmo,Latin,1.98,17.82,August
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Alanis Morissette,Jagged Little Pill,Rock,1.98,17.82,April
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Alice In Chains,Facelift,Rock,1.98,17.82,April
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,R.E.M.,New Adventures In Hi-Fi,Rock,1.98,17.82,September
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,R.E.M.,The Best Of R.E.M.: The IRS Years,Alternative & Punk,1.98,17.82,September
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,R.E.M. Feat. Kate Pearson,Out Of Time,Alternative & Punk,1.98,17.82,September
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Raimundos,Cesta Básica,Alternative & Punk,1.98,17.82,September
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Miles Davis,Miles Ahead,Jazz,1.98,17.82,September
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Milton Nascimento,Minas,Latin,1.98,17.82,September
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,Faith No More,Album Of The Year,Alternative & Punk,1.98,17.82,November
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,Faith No More,King For A Day Fool For A Lifetime,Rock,1.98,17.82,November
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,Faith No More,The Real Thing,Alternative & Punk,1.98,17.82,November
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Tim Maia,Serie Sem Limite (Disc 1),Latin,1.98,17.82,November
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Tim Maia,Serie Sem Limite (Disc 2),Latin,1.98,17.82,November
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Red Hot Chili Peppers,By The Way,Rock,1.98,17.82,November
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,AC/DC,Let There Be Rock,Rock,1.98,17.82,November
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Cidade Negra,Acústico MTV [Live],Reggae,1.98,17.82,May
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,UB40,UB40 The Best Of - Volume Two [UK],Reggae,1.98,17.82,May
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Van Halen,Diver Down,Rock,1.98,17.82,May
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,Iron Maiden,Seventh Son of a Seventh Son,Metal,1.98,17.82,May
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,Iron Maiden,The X Factor,Rock,1.98,17.82,May
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,Iron Maiden,Virtual XI,Rock,1.98,17.82,May
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,Iron Maiden,A Matter of Life and Death,Rock,1.98,17.82,June
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,Iron Maiden,A Real Dead One,Metal,1.98,17.82,June
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,Iron Maiden,A Real Live One,Metal,1.98,17.82,June
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,Iron Maiden,Brave New World,Rock,1.98,17.82,June
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Metallica,Kill 'Em All,Metal,1.98,17.82,July
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Metallica,Load,Metal,1.98,17.82,July
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Metallica,Master Of Puppets,Metal,1.98,17.82,July
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Metallica,ReLoad,Metal,1.98,17.82,July
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Cássia Eller,Cássia Eller - Sem Limite [Disc 1],Latin,1.98,17.82,July
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Deep Purple,Come Taste The Band,Rock,1.98,17.82,July
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Led Zeppelin,Led Zeppelin I,Rock,1.98,17.82,Febuary
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Led Zeppelin,Led Zeppelin III,Rock,1.98,17.82,Febuary
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,Red Hot Chili Peppers,Blood Sugar Sex Magik,Alternative & Punk,1.98,17.82,Febuary
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,U2,The Best Of 1980-1990,Rock,1.98,17.82,December
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,U2,War,Rock,1.98,17.82,December
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,U2,Zooropa,Rock,1.98,17.82,December
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,U2,War,Rock,1.98,17.82,August
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,U2,Zooropa,Rock,1.98,17.82,August
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,UB40,UB40 The Best Of - Volume Two [UK],Reggae,1.98,17.82,August
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Van Halen,Diver Down,Rock,1.98,17.82,August
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Cássia Eller,Cássia Eller - Sem Limite [Disc 1],Latin,1.98,17.82,April
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Deep Purple,Knocking at Your Back Door: The Best Of Deep Purple in the 80's,Rock,1.98,17.82,April
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,Guns N' Roses,Appetite for Destruction,Rock,1.98,17.82,April
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,Guns N' Roses,Use Your Illusion I,Rock,1.98,17.82,April
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,Guns N' Roses,Use Your Illusion II,Metal,1.98,17.82,April
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,Guns N' Roses,Use Your Illusion II,Metal,1.98,17.82,September
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,Incognito,Blue Moods,Jazz,1.98,17.82,September
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,Iron Maiden,A Matter of Life and Death,Rock,1.98,17.82,September
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,Iron Maiden,A Real Dead One,Metal,1.98,17.82,September
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,David Coverdale,Into The Light,Rock,1.98,17.82,September
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,Gonzaguinha,Meus Momentos,Latin,1.98,17.82,September
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,Spyro Gyra,Heart of the Night,Jazz,1.98,17.82,September
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Passengers,Original Soundtracks 1,Soundtrack,1.98,17.82,October
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Paul D'Ianno,The Beast Live,Rock,1.98,17.82,October
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Pearl Jam,Live On Two Legs [Live],Rock,1.98,17.82,October
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Pearl Jam,Pearl Jam,Alternative & Punk,1.98,17.82,October
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Foo Fighters,In Your Honor [Disc 2],Rock,1.98,17.82,May
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Foo Fighters,One By One,Alternative & Punk,1.98,17.82,May
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,Eric Clapton,The Cream Of Clapton,Blues,1.98,17.82,March
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,Eric Clapton,Unplugged,Blues,1.98,17.82,March
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,Faith No More,Album Of The Year,Alternative & Punk,1.98,17.82,March
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,Faith No More,Angel Dust,Alternative & Punk,1.98,17.82,March
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Chico Buarque,Minha Historia,Latin,1.98,17.82,March
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Gonzaguinha,Meus Momentos,Latin,1.98,17.82,March
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,Chico Buarque,Minha Historia,Latin,1.98,17.82,June
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,David Coverdale,Into The Light,Rock,1.98,17.82,June
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,Ozzy Osbourne,Speak of the Devil,Rock,1.98,17.82,June
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,Scorpions,20th Century Masters - The Millennium Collection: The Best of Scorpions,Rock,1.98,17.82,June
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,Pop,1.98,17.82,June
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,JET,Get Born,Alternative & Punk,1.98,17.82,July
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,Jamiroquai,Emergency On Planet Earth,Rock,1.98,17.82,July
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,Jamiroquai,Synkronized,R&B/Soul,1.98,17.82,July
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,Jamiroquai,The Return Of The Space Cowboy,Electronica/Dance,1.98,17.82,July
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Page & Plant,Walking Into Clarksdale,Rock,1.98,17.82,January
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Pearl Jam,Live On Two Legs [Live],Rock,1.98,17.82,January
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,Alanis Morissette,Jagged Little Pill,Rock,1.98,17.82,January
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,Alice In Chains,Facelift,Rock,1.98,17.82,January
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,Antônio Carlos Jobim,Warner 25 Anos,Jazz,1.98,17.82,January
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,Apocalyptica,Plays Metallica By Four Cellos,Metal,1.98,17.82,January
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,Iron Maiden,The Number of The Beast,Metal,1.98,17.82,January
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,Iron Maiden,Virtual XI,Rock,1.98,17.82,January
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Van Halen,Van Halen,Rock,1.98,17.82,Febuary
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Van Halen,Van Halen III,Rock,1.98,17.82,Febuary
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Chico Science & Nação Zumbi,Afrociberdelia,Latin,1.98,17.82,December
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,Faith No More,King For A Day Fool For A Lifetime,Rock,1.98,17.82,August
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,Faith No More,The Real Thing,Alternative & Punk,1.98,17.82,August
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,Falamansa,Deixa Entrar,Latin,1.98,17.82,August
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,Foo Fighters,In Your Honor [Disc 1],Rock,1.98,17.82,August
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Latin,1.98,17.82,April
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,Ozzy Osbourne,Tribute,Metal,1.98,17.82,April
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,Page & Plant,Walking Into Clarksdale,Rock,1.98,17.82,April
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,Passengers,Original Soundtracks 1,Soundtrack,1.98,17.82,April
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Guns N' Roses,Appetite for Destruction,Rock,1.98,11.88,September
+Roberto,Almeida,Brazil,Rio de Janeiro,RJ,Jane,Peacock,833,Smashing Pumpkins,Rotten Apples: Greatest Hits,Alternative & Punk,1.98,11.88,October
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,Buddy Guy,The Best Of Buddy Guy - The Millenium Collection,Blues,1.98,11.88,November
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Led Zeppelin,Led Zeppelin I,Rock,1.98,11.88,November
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Led Zeppelin,Led Zeppelin II,Rock,1.98,11.88,November
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,Iron Maiden,Piece Of Mind,Metal,1.98,11.88,May
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,Iron Maiden,Powerslave,Metal,1.98,11.88,May
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,Iron Maiden,Rock In Rio [CD1],Metal,1.98,11.88,May
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,R.E.M.,Green,Alternative & Punk,1.98,11.88,May
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Faith No More,Angel Dust,Alternative & Punk,1.98,11.88,May
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,System Of A Down,Mezmerize,Metal,1.98,11.88,March
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Kiss,Unplugged [Live],Rock,1.98,11.88,June
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Led Zeppelin,BBC Sessions [Disc 2] [Live],Rock,1.98,11.88,June
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Led Zeppelin,Coda,Rock,1.98,11.88,June
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,Creedence Clearwater Revival,"Chronicle, Vol. 1",Rock,1.98,11.88,July
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,Iron Maiden,Virtual XI,Rock,1.98,11.88,July
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Iron Maiden,Seventh Son of a Seventh Son,Metal,1.98,11.88,January
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,U2,Zooropa,Rock,1.98,11.88,Febuary
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Metallica,Garage Inc. (Disc 1),Metal,1.98,11.88,December
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,U2,How To Dismantle An Atomic Bomb,Rock,1.98,11.88,December
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Led Zeppelin,Led Zeppelin III,Rock,1.98,11.88,August
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Led Zeppelin,Physical Graffiti [Disc 2],Rock,1.98,11.88,August
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Led Zeppelin,Presence,Rock,1.98,11.88,August
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Os Paralamas Do Sucesso,Acústico MTV,Latin,1.98,11.88,April
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Raimundos,Cesta Básica,Alternative & Punk,1.98,11.88,November
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,U2,War,Rock,1.98,11.88,May
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Spyro Gyra,Morning Dance,Jazz,1.98,11.88,June
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Stevie Ray Vaughan & Double Trouble,In Step,Blues,1.98,11.88,June
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,Amy Winehouse,Frank,Pop,1.98,11.88,July
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,AC/DC,Let There Be Rock,Rock,1.98,11.88,January
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Metallica,Master Of Puppets,Metal,1.98,11.88,December
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Guns N' Roses,Appetite for Destruction,Rock,1.98,11.88,December
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,The Black Crowes,Live [Disc 2],Blues,1.98,11.88,December
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Faith No More,Angel Dust,Alternative & Punk,1.98,11.88,August
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,Godsmack,Faceless,Metal,1.98,11.88,April
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Metallica,Ride The Lightning,Metal,1.98,11.88,September
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Metallica,Load,Metal,1.98,11.88,March
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Eric Clapton,The Cream Of Clapton,Blues,1.98,11.88,March
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Led Zeppelin,Houses Of The Holy,Rock,1.98,11.88,Febuary
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Led Zeppelin,IV,Rock,1.98,11.88,Febuary
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,R.E.M. Feat. Kate Pearson,Out Of Time,Alternative & Punk,1.98,11.88,Febuary
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Led Zeppelin,BBC Sessions [Disc 2] [Live],Rock,1.98,7.92,Febuary
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Led Zeppelin,Coda,Rock,1.98,7.92,Febuary
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Green Day,American Idiot,Alternative & Punk,1.98,7.92,September
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Guns N' Roses,Appetite for Destruction,Rock,1.98,7.92,September
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Iron Maiden,Seventh Son of a Seventh Son,Metal,1.98,7.92,October
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Iron Maiden,Somewhere in Time,Metal,1.98,7.92,October
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,R.E.M. Feat. Kate Pearson,Out Of Time,Alternative & Punk,1.98,7.92,May
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Amy Winehouse,Back to Black,R&B/Soul,1.98,7.92,July
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Amy Winehouse,Frank,Pop,1.98,7.92,July
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Elis Regina,Elis Regina-Minha História,Latin,1.98,7.92,November
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Eric Clapton,The Cream Of Clapton,Blues,1.98,7.92,November
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,Led Zeppelin,IV,Rock,1.98,7.92,November
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,Led Zeppelin,In Through The Out Door,Rock,1.98,7.92,November
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,Green Day,American Idiot,Alternative & Punk,1.98,3.96,September
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Queen,Greatest Hits II,Rock,1.98,3.96,September
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Iron Maiden,Seventh Son of a Seventh Son,Metal,1.98,3.96,October
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Toquinho & Vinícius,Vinícius De Moraes - Sem Limite,Bossa Nova,1.98,3.96,October
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Black Sabbath,Black Sabbath Vol. 4 (Remaster),Metal,1.98,3.96,November
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Elis Regina,Elis Regina-Minha História,Latin,1.98,3.96,November
+Roberto,Almeida,Brazil,Rio de Janeiro,RJ,Jane,Peacock,833,Led Zeppelin,In Through The Out Door,Rock,1.98,3.96,November
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,The Tea Party,Tangents,Alternative & Punk,1.98,3.96,November
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,The Tea Party,Tangents,Alternative & Punk,1.98,3.96,November
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,Iron Maiden,No Prayer For The Dying,Metal,1.98,3.96,May
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,Queen,News Of The World,Rock,1.98,3.96,May
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Caetano Veloso,Prenda Minha,Latin,1.98,3.96,May
+Roberto,Almeida,Brazil,Rio de Janeiro,RJ,Jane,Peacock,833,Gilberto Gil,Quanta Gente Veio Ver (Live),Latin,1.98,3.96,March
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,Spyro Gyra,Morning Dance,Jazz,1.98,3.96,March
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Guns N' Roses,Use Your Illusion I,Rock,1.98,3.96,June
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,Kiss,Greatest Kiss,Rock,1.98,3.96,June
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,Judas Priest,Living After Midnight,Metal,1.98,3.96,June
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,The Who,My Generation - The Very Best Of The Who,Rock,1.98,3.96,July
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Creedence Clearwater Revival,"Chronicle, Vol. 1",Rock,1.98,3.96,July
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Amy Winehouse,Back to Black,R&B/Soul,1.98,3.96,July
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,Titãs,Acústico,Alternative & Punk,1.98,3.96,January
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,Titãs,Acústico,Alternative & Punk,1.98,3.96,January
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,Os Paralamas Do Sucesso,Arquivo II,Latin,1.98,3.96,January
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Djavan,Djavan Ao Vivo - Vol. 02,Latin,1.98,3.96,Febuary
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,U2,War,Rock,1.98,3.96,Febuary
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Chico Buarque,Minha Historia,Latin,1.98,3.96,Febuary
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Antônio Carlos Jobim,Chill: Brazil (Disc 2),Latin,1.98,3.96,December
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,Led Zeppelin,Led Zeppelin I,Rock,1.98,3.96,August
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,O Terço,Compositores,Rock,1.98,3.96,August
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,U2,How To Dismantle An Atomic Bomb,Rock,1.98,3.96,August
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,Bruce Dickinson,Chemical Wedding,Metal,1.98,3.96,August
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,Metallica,Master Of Puppets,Metal,1.98,3.96,September
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Smashing Pumpkins,Judas 0: B-Sides and Rarities,Alternative & Punk,1.98,3.96,October
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Latin,1.98,3.96,October
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Led Zeppelin,Houses Of The Holy,Rock,1.98,3.96,November
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Elis Regina,Elis Regina-Minha História,Latin,1.98,3.96,November
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,R.E.M.,The Best Of R.E.M.: The IRS Years,Alternative & Punk,1.98,3.96,November
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,U2,Rattle And Hum,Rock,1.98,3.96,May
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,Caetano Veloso,Prenda Minha,Latin,1.98,3.96,May
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Faith No More,Album Of The Year,Alternative & Punk,1.98,3.96,May
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Kiss,Greatest Kiss,Rock,1.98,3.96,June
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,Guns N' Roses,Use Your Illusion I,Rock,1.98,3.96,June
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,Soundgarden,A-Sides,Rock,1.98,3.96,June
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,Marvin Gaye,Seek And Shall Find: More Of The Best (1963-1981),R&B/Soul,1.98,3.96,July
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,The Who,My Generation - The Very Best Of The Who,Rock,1.98,3.96,July
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Various Artists,Vozes do MPB,Latin,1.98,3.96,July
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Gene Krupa,Up An' Atom,Jazz,1.98,3.96,January
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,Iron Maiden,Powerslave,Metal,1.98,3.96,January
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,R.E.M.,New Adventures In Hi-Fi,Rock,1.98,3.96,Febuary
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Chico Buarque,Minha Historia,Latin,1.98,3.96,Febuary
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,U2,The Best Of 1980-1990,Rock,1.98,3.96,Febuary
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Djavan,Djavan Ao Vivo - Vol. 02,Latin,1.98,3.96,Febuary
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Led Zeppelin,BBC Sessions [Disc 2] [Live],Rock,1.98,3.96,Febuary
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Eric Clapton,Unplugged,Latin,1.98,3.96,December
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Antônio Carlos Jobim,Chill: Brazil (Disc 2),Latin,1.98,3.96,December
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,Stone Temple Pilots,Core,Rock,1.98,3.96,December
+John,Gordon,USA,Boston,MA,Margaret,Park,775,U2,B-Sides 1980-1990,Rock,1.98,3.96,December
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Eric Clapton,Unplugged,Latin,1.98,3.96,December
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Tim Maia,Serie Sem Limite (Disc 1),Latin,1.98,3.96,April
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,Os Paralamas Do Sucesso,Acústico MTV,Latin,1.98,3.96,April
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Creedence Clearwater Revival,"Chronicle, Vol. 2",Rock,1.98,3.96,April
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,Metallica,Master Of Puppets,Metal,1.98,3.96,September
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Metallica,Garage Inc. (Disc 1),Metal,1.98,3.96,September
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,Green Day,American Idiot,Alternative & Punk,1.98,3.96,September
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,Planet Hemp,Os Cães Ladram Mas A Caravana Não Pára,Hip Hop/Rap,1.98,3.96,September
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,Smashing Pumpkins,Judas 0: B-Sides and Rarities,Alternative & Punk,1.98,3.96,October
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Toquinho & Vinícius,Vinícius De Moraes - Sem Limite,Bossa Nova,1.98,3.96,October
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Latin,1.98,3.96,October
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Iron Maiden,Rock In Rio [CD2],Rock,1.98,3.96,October
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,R.E.M.,The Best Of R.E.M.: The IRS Years,Alternative & Punk,1.98,3.96,November
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,Iron Maiden,Live At Donington 1992 (Disc 2),Rock,1.98,3.96,May
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Faith No More,Album Of The Year,Alternative & Punk,1.98,3.96,May
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,U2,Rattle And Hum,Rock,1.98,3.96,May
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,Queen,News Of The World,Rock,1.98,3.96,May
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Spyro Gyra,Heart of the Night,Jazz,1.98,3.96,March
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,Metallica,Black Album,Metal,1.98,3.96,March
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,Gilberto Gil,Quanta Gente Veio Ver (Live),Latin,1.98,3.96,March
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Judas Priest,Living After Midnight,Metal,1.98,3.96,June
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Iron Maiden,The Number of The Beast,Metal,1.98,3.96,July
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,Amy Winehouse,Back to Black,R&B/Soul,1.98,3.96,July
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,Iron Maiden,Powerslave,Metal,1.98,3.96,January
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,Gene Krupa,Up An' Atom,Jazz,1.98,3.96,January
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,R.E.M.,New Adventures In Hi-Fi,Rock,1.98,3.96,Febuary
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Led Zeppelin,BBC Sessions [Disc 2] [Live],Rock,1.98,3.96,Febuary
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,System Of A Down,Mezmerize,Metal,1.98,3.96,December
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,Metallica,Kill 'Em All,Metal,1.98,3.96,December
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Metallica,Kill 'Em All,Metal,1.98,3.96,December
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,U2,All That You Can't Leave Behind,Rock,1.98,3.96,December
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,O Terço,Compositores,Rock,1.98,3.96,August
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Bruce Dickinson,Chemical Wedding,Metal,1.98,3.96,August
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,U2,How To Dismantle An Atomic Bomb,Rock,1.98,3.96,August
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,Eric Clapton,The Cream Of Clapton,Blues,1.98,3.96,August
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,Olodum,Olodum,Latin,1.98,3.96,April
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Creedence Clearwater Revival,"Chronicle, Vol. 2",Rock,1.98,3.96,April
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,Tim Maia,Serie Sem Limite (Disc 1),Latin,1.98,3.96,April
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,Titãs,Volume Dois,Alternative & Punk,0.99,25.86,November
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,U2,Achtung Baby,Rock,0.99,25.86,November
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,U2,All That You Can't Leave Behind,Rock,0.99,23.86,August
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,U2,B-Sides 1980-1990,Rock,0.99,23.86,August
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,Velvet Revolver,Contraband,Rock,0.99,21.86,Febuary
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,Vinícius De Moraes,Vinicius De Moraes,Latin,0.99,21.86,Febuary
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,U2,Achtung Baby,Rock,0.99,21.86,April
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,U2,All That You Can't Leave Behind,Rock,0.99,21.86,April
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,U2,How To Dismantle An Atomic Bomb,Rock,0.99,21.86,April
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,U2,Pop,Rock,0.99,21.86,April
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,Lenny Kravitz,Greatest Hits,Metal,0.99,18.86,May
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,Velvet Revolver,Contraband,Rock,0.99,18.86,May
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,U2,All That You Can't Leave Behind,Rock,0.99,18.86,January
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,U2,B-Sides 1980-1990,Rock,0.99,18.86,January
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,U2,Pop,Rock,0.99,18.86,January
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,Chris Cornell,Carry On,Alternative,0.99,16.86,October
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,Sir Georg Solti & Wiener Philharmoniker,Wagner: Favourite Overtures,Classical,0.99,16.86,October
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,Temple of the Dog,Temple of the Dog,Alternative,0.99,16.86,October
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,The Posies,Every Kind of Light,Rock,0.99,16.86,October
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,Yo-Yo Ma,Bach: The Cello Suites,Classical,0.99,16.86,October
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,Van Halen,Van Halen,Rock,0.99,16.86,September
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,Van Halen,Van Halen III,Rock,0.99,16.86,September
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,Vinícius De Moraes,Vinicius De Moraes,Latin,0.99,16.86,September
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,"Academy of St. Martin in the Fields, John Birch, Sir Neville Marriner & Sylvia McNair","Fauré: Requiem, Ravel: Pavane & Others",Classical,0.99,15.86,March
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Chris Cornell,Carry On,Alternative,0.99,15.86,March
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Luciana Souza/Romero Lubambo,Duos II,Latin,0.99,15.86,March
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Maurizio Pollini,Beethoven Piano Sonatas: Moonlight & Pastorale,Classical,0.99,15.86,March
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Michael Tilson Thomas & San Francisco Symphony,Berlioz: Symphonie Fantastique,Classical,0.99,15.86,March
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Scholars Baroque Ensemble,Handel: The Messiah (Highlights),Classical,0.99,15.86,March
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Audioslave,Revelations,Alternative,0.99,15.86,June
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Chicago Symphony Orchestra & Fritz Reiner,Scheherazade,Classical,0.99,15.86,June
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Edo de Waart & San Francisco Symphony,"Adams, John: The Chairman Dances",Classical,0.99,15.86,June
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,English Concert & Trevor Pinnock,Pachelbel: Canon & Gigue,Classical,0.99,15.86,June
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Eugene Ormandy,"Holst: The Planets, Op. 32 & Vaughan Williams: Fantasies",Classical,0.99,15.86,June
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Habib Koité and Bamada,Muso Ko,World,0.99,15.86,June
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Royal Philharmonic Orchestra & Sir Thomas Beecham,Haydn: Symphonies 99 - 104,Classical,0.99,15.86,June
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Temple of the Dog,Temple of the Dog,Alternative,0.99,15.86,June
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,Deep Purple,MK III The Final Concerts [Disc 1],Rock,0.99,13.86,September
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,Ed Motta,The Best of Ed Motta,Latin,0.99,13.86,September
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,Led Zeppelin,Physical Graffiti [Disc 1],Rock,0.99,13.86,September
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,Miles Davis,The Essential Miles Davis [Disc 2],Jazz,0.99,13.86,September
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,Os Mutantes,Minha História,Alternative & Punk,0.99,13.86,September
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,Various Artists,Sambas De Enredo 2001,Latin,0.99,13.86,September
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Deep Purple,Come Taste The Band,Rock,0.99,13.86,October
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Deep Purple,Deep Purple In Rock,Rock,0.99,13.86,October
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Deep Purple,Fireball,Rock,0.99,13.86,October
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Deep Purple,Knocking at Your Back Door: The Best Of Deep Purple in the 80's,Rock,0.99,13.86,October
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Deep Purple,Machine Head,Rock,0.99,13.86,October
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Deep Purple,Purpendicular,Rock,0.99,13.86,October
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Deep Purple,Slaves And Masters,Rock,0.99,13.86,October
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Deep Purple,Stormbringer,Rock,0.99,13.86,October
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Deep Purple,The Battle Rages On,Rock,0.99,13.86,October
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Dennis Chambers,Outbreak,Jazz,0.99,13.86,October
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Djavan,Djavan Ao Vivo - Vol. 02,Latin,0.99,13.86,October
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Djavan,Djavan Ao Vivo - Vol. 1,Latin,0.99,13.86,October
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Legião Urbana,Mais Do Mesmo,Latin,0.99,13.86,November
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Lenny Kravitz,Greatest Hits,Rock,0.99,13.86,November
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Lulu Santos,Lulu Santos - RCA 100 Anos De Música - Álbum 02,Latin,0.99,13.86,November
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Men At Work,The Best Of Men At Work,Rock,0.99,13.86,November
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Metallica,Black Album,Metal,0.99,13.86,November
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Metallica,Garage Inc. (Disc 2),Metal,0.99,13.86,November
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,Lenny Kravitz,Greatest Hits,Reggae,0.99,13.86,May
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,Paul D'Ianno,The Beast Live,Rock,0.99,13.86,May
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,Pearl Jam,Riot Act,Rock,0.99,13.86,May
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,Pearl Jam,Ten,Rock,0.99,13.86,May
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,Pink Floyd,Dark Side Of The Moon,Rock,0.99,13.86,May
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,Queen,Greatest Hits I,Rock,0.99,13.86,May
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,Led Zeppelin,Physical Graffiti [Disc 2],Rock,0.99,13.86,June
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,Led Zeppelin,The Song Remains The Same (Disc 1),Rock,0.99,13.86,June
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,Lenny Kravitz,Greatest Hits,Rock,0.99,13.86,June
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,Marillion,Misplaced Childhood,Rock,0.99,13.86,June
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Jimi Hendrix,Are You Experienced?,Rock,0.99,13.86,July
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Joe Satriani,Surfing with the Alien (Remastered),Rock,0.99,13.86,July
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Jota Quest,Jota Quest-1995,Latin,0.99,13.86,July
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Judas Priest,Living After Midnight,Metal,0.99,13.86,July
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Led Zeppelin,BBC Sessions [Disc 2] [Live],Rock,0.99,13.86,July
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Led Zeppelin,Coda,Rock,0.99,13.86,July
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Led Zeppelin,Houses Of The Holy,Rock,0.99,13.86,July
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Led Zeppelin,In Through The Out Door,Rock,0.99,13.86,July
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,Deep Purple,Knocking at Your Back Door: The Best Of Deep Purple in the 80's,Rock,0.99,13.86,July
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,Deep Purple,Machine Head,Rock,0.99,13.86,July
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,Deep Purple,Purpendicular,Rock,0.99,13.86,July
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,Deep Purple,Slaves And Masters,Rock,0.99,13.86,July
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,Deep Purple,Stormbringer,Rock,0.99,13.86,July
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,Deep Purple,The Battle Rages On,Rock,0.99,13.86,July
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,Dennis Chambers,Outbreak,Jazz,0.99,13.86,July
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,Djavan,Djavan Ao Vivo - Vol. 1,Latin,0.99,13.86,July
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Antônio Carlos Jobim,Warner 25 Anos,Jazz,0.99,13.86,July
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Apocalyptica,Plays Metallica By Four Cellos,Metal,0.99,13.86,July
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Audioslave,Out Of Exile,Alternative & Punk,0.99,13.86,July
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,BackBeat,BackBeat Soundtrack,Rock And Roll,0.99,13.86,July
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Billy Cobham,The Best Of Billy Cobham,Jazz,0.99,13.86,July
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Black Sabbath,Black Sabbath,Metal,0.99,13.86,July
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Black Sabbath,Black Sabbath Vol. 4 (Remaster),Metal,0.99,13.86,July
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Body Count,Body Count,Alternative & Punk,0.99,13.86,July
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Cássia Eller,Cássia Eller - Coleção Sem Limite [Disc 2],Latin,0.99,13.86,Febuary
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Deep Purple,Come Taste The Band,Rock,0.99,13.86,Febuary
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Deep Purple,Fireball,Rock,0.99,13.86,Febuary
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Deep Purple,Knocking at Your Back Door: The Best Of Deep Purple in the 80's,Rock,0.99,13.86,Febuary
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Deep Purple,Machine Head,Rock,0.99,13.86,Febuary
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Deep Purple,Purpendicular,Rock,0.99,13.86,Febuary
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Deep Purple,Slaves And Masters,Rock,0.99,13.86,Febuary
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Deep Purple,Stormbringer,Rock,0.99,13.86,Febuary
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Def Leppard,Vault: Def Leppard's Greatest Hits,Rock,0.99,13.86,Febuary
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Dennis Chambers,Outbreak,Jazz,0.99,13.86,Febuary
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,Lenny Kravitz,Greatest Hits,Rock,0.99,13.86,Febuary
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,Rush,Retrospective I (1974-1980),Rock,0.99,13.86,Febuary
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,Santana,Santana - As Years Go By,Rock,0.99,13.86,Febuary
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,Santana,Santana Live,Rock,0.99,13.86,Febuary
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,Skank,O Samba Poconé,Rock,0.99,13.86,Febuary
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,Soundgarden,A-Sides,Rock,0.99,13.86,Febuary
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Chico Science & Nação Zumbi,Afrociberdelia,Latin,0.99,13.86,December
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Cidade Negra,Cidade Negra - Hits,Reggae,0.99,13.86,December
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Cláudio Zoli,Na Pista,Latin,0.99,13.86,December
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Frank Zappa & Captain Beefheart,Bongo Fury,Rock,0.99,13.86,December
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Led Zeppelin,BBC Sessions [Disc 1] [Live],Rock,0.99,13.86,December
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Marcos Valle,Chill: Brazil (Disc 1),Latin,0.99,13.86,December
+Roberto,Almeida,Brazil,Rio de Janeiro,RJ,Jane,Peacock,833,Motörhead,Ace Of Spades,Metal,0.99,13.86,December
+Roberto,Almeida,Brazil,Rio de Janeiro,RJ,Jane,Peacock,833,Mötley Crüe,Motley Crue Greatest Hits,Metal,0.99,13.86,December
+Roberto,Almeida,Brazil,Rio de Janeiro,RJ,Jane,Peacock,833,O Terço,Compositores,Rock,0.99,13.86,December
+Roberto,Almeida,Brazil,Rio de Janeiro,RJ,Jane,Peacock,833,Os Paralamas Do Sucesso,Acústico MTV,Latin,0.99,13.86,December
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,UB40,UB40 The Best Of - Volume Two [UK],Reggae,0.99,13.86,December
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,Van Halen,Diver Down,Rock,0.99,13.86,December
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,Van Halen,Van Halen III,Rock,0.99,13.86,December
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,Velvet Revolver,Contraband,Rock,0.99,13.86,December
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Eric Clapton,Unplugged,Latin,0.99,13.86,August
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Foo Fighters,In Your Honor [Disc 2],Rock,0.99,13.86,August
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Foo Fighters,One By One,Alternative & Punk,0.99,13.86,August
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Gilberto Gil,Quanta Gente Veio Ver (Live),Latin,0.99,13.86,August
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Gilberto Gil,Quanta Gente Veio ver--Bônus De Carnaval,Jazz,0.99,13.86,August
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Godsmack,Faceless,Metal,0.99,13.86,August
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Lulu Santos,Lulu Santos - RCA 100 Anos De Música - Álbum 01,Latin,0.99,13.86,August
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Marillion,Misplaced Childhood,Rock,0.99,13.86,August
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Men At Work,The Best Of Men At Work,Rock,0.99,13.86,August
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Metallica,Black Album,Metal,0.99,13.86,August
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Metallica,Kill 'Em All,Metal,0.99,13.86,August
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Metallica,Load,Metal,0.99,13.86,August
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Antônio Carlos Jobim,Warner 25 Anos,Jazz,0.99,13.86,April
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Audioslave,Out Of Exile,Alternative & Punk,0.99,13.86,April
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Billy Cobham,The Best Of Billy Cobham,Jazz,0.99,13.86,April
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Black Label Society,Alcohol Fueled Brewtality Live! [Disc 1],Metal,0.99,13.86,April
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Black Label Society,Alcohol Fueled Brewtality Live! [Disc 2],Metal,0.99,13.86,April
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Black Sabbath,Black Sabbath Vol. 4 (Remaster),Metal,0.99,13.86,April
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Deep Purple,Purpendicular,Rock,0.99,13.86,April
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Deep Purple,Slaves And Masters,Rock,0.99,13.86,April
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Deep Purple,Stormbringer,Rock,0.99,13.86,April
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Deep Purple,The Battle Rages On,Rock,0.99,13.86,April
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Dennis Chambers,Outbreak,Jazz,0.99,13.86,April
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Djavan,Djavan Ao Vivo - Vol. 02,Latin,0.99,13.86,April
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Elis Regina,Elis Regina-Minha História,Latin,0.99,13.86,April
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Eric Clapton,Unplugged,Blues,0.99,13.86,April
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Motörhead,Ace Of Spades,Metal,0.99,13.86,September
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Mônica Marianno,Demorou...,World,0.99,13.86,September
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Nirvana,Nevermind,Rock,0.99,13.86,September
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Olodum,Olodum,Latin,0.99,13.86,September
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Os Paralamas Do Sucesso,Arquivo II,Latin,0.99,13.86,September
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Iron Maiden,Brave New World,Rock,0.99,13.86,September
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Iron Maiden,Fear Of The Dark,Rock,0.99,13.86,September
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Iron Maiden,Iron Maiden,Blues,0.99,13.86,September
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Iron Maiden,Killers,Heavy Metal,0.99,13.86,September
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Iron Maiden,Live At Donington 1992 (Disc 1),Rock,0.99,13.86,September
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Iron Maiden,Live At Donington 1992 (Disc 2),Rock,0.99,13.86,September
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Iron Maiden,No Prayer For The Dying,Metal,0.99,13.86,September
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Iron Maiden,Piece Of Mind,Metal,0.99,13.86,September
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Iron Maiden,Powerslave,Metal,0.99,13.86,September
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Iron Maiden,Rock In Rio [CD1],Metal,0.99,13.86,September
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,The Black Crowes,Live [Disc 2],Blues,0.99,13.86,October
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,The Doors,The Doors,Rock,0.99,13.86,October
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,The Rolling Stones,"Hot Rocks, 1964-1971 (Disc 1)",Rock,0.99,13.86,October
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,The Rolling Stones,No Security,Rock,0.99,13.86,October
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Aerosmith,Big Ones,Rock,0.99,13.86,November
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Alice In Chains,Facelift,Rock,0.99,13.86,November
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Apocalyptica,Plays Metallica By Four Cellos,Metal,0.99,13.86,November
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Audioslave,Audioslave,Rock,0.99,13.86,November
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Audioslave,Out Of Exile,Alternative & Punk,0.99,13.86,November
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Billy Cobham,The Best Of Billy Cobham,Jazz,0.99,13.86,November
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Black Label Society,Alcohol Fueled Brewtality Live! [Disc 1],Metal,0.99,13.86,November
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Black Label Society,Alcohol Fueled Brewtality Live! [Disc 2],Metal,0.99,13.86,November
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Rush,Retrospective I (1974-1980),Rock,0.99,13.86,November
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Santana,Santana Live,Rock,0.99,13.86,November
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Skank,Maquinarama,Rock,0.99,13.86,November
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Skank,O Samba Poconé,Rock,0.99,13.86,November
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Spyro Gyra,Morning Dance,Jazz,0.99,13.86,November
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Stevie Ray Vaughan & Double Trouble,In Step,Blues,0.99,13.86,November
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,The Doors,The Doors,Rock,0.99,13.86,March
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,The Police,The Police Greatest Hits,Rock,0.99,13.86,March
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,The Rolling Stones,No Security,Rock,0.99,13.86,March
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,The Tea Party,Transmission,Alternative & Punk,0.99,13.86,March
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Faith No More,King For A Day Fool For A Lifetime,Rock,0.99,13.86,March
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Faith No More,The Real Thing,Alternative & Punk,0.99,13.86,March
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Foo Fighters,In Your Honor [Disc 1],Rock,0.99,13.86,March
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Foo Fighters,In Your Honor [Disc 2],Rock,0.99,13.86,March
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Foo Fighters,One By One,Alternative & Punk,0.99,13.86,March
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Gilberto Gil,As Canções de Eu Tu Eles,Soundtrack,0.99,13.86,March
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Creedence Clearwater Revival,"Chronicle, Vol. 1",Rock,0.99,13.86,March
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Ed Motta,The Best of Ed Motta,Latin,0.99,13.86,March
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Miles Davis,The Essential Miles Davis [Disc 2],Jazz,0.99,13.86,March
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Toquinho & Vinícius,Vinícius De Moraes - Sem Limite,Bossa Nova,0.99,13.86,March
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Various Artists,Sambas De Enredo 2001,Latin,0.99,13.86,March
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,Legião Urbana,A TempestadeTempestade Ou O Livro Dos Dias,Latin,0.99,13.86,March
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,Marillion,Misplaced Childhood,Rock,0.99,13.86,March
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,Men At Work,The Best Of Men At Work,Rock,0.99,13.86,March
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,Deep Purple,MK III The Final Concerts [Disc 1],Rock,0.99,13.86,June
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,Deep Purple,The Final Concerts (Disc 2),Rock,0.99,13.86,June
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,Miles Davis,The Essential Miles Davis [Disc 1],Jazz,0.99,13.86,June
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,Miles Davis,The Essential Miles Davis [Disc 2],Jazz,0.99,13.86,June
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,Os Mutantes,Minha História,Alternative & Punk,0.99,13.86,June
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,Santana,Supernatural,Rock,0.99,13.86,June
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,Red Hot Chili Peppers,Blood Sugar Sex Magik,Alternative & Punk,0.99,13.86,June
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,Red Hot Chili Peppers,By The Way,Rock,0.99,13.86,June
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,Santana,Santana - As Years Go By,Rock,0.99,13.86,June
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,Skank,Maquinarama,Rock,0.99,13.86,June
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,Skank,O Samba Poconé,Rock,0.99,13.86,June
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,Smashing Pumpkins,Rotten Apples: Greatest Hits,Alternative & Punk,0.99,13.86,June
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Chico Buarque,Minha Historia,Latin,0.99,13.86,January
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,David Coverdale,Into The Light,Rock,0.99,13.86,January
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Deep Purple,MK III The Final Concerts [Disc 1],Rock,0.99,13.86,January
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Miles Davis,The Essential Miles Davis [Disc 1],Jazz,0.99,13.86,January
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Miles Davis,The Essential Miles Davis [Disc 2],Jazz,0.99,13.86,January
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Santana,Supernatural,Rock,0.99,13.86,January
+John,Gordon,USA,Boston,MA,Margaret,Park,775,BackBeat,BackBeat Soundtrack,Rock And Roll,0.99,13.86,January
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Billy Cobham,The Best Of Billy Cobham,Jazz,0.99,13.86,January
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Black Label Society,Alcohol Fueled Brewtality Live! [Disc 1],Metal,0.99,13.86,January
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Black Label Society,Alcohol Fueled Brewtality Live! [Disc 2],Metal,0.99,13.86,January
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Black Sabbath,Black Sabbath,Metal,0.99,13.86,January
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Black Sabbath,Black Sabbath Vol. 4 (Remaster),Metal,0.99,13.86,January
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Bruce Dickinson,Chemical Wedding,Metal,0.99,13.86,January
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Buddy Guy,The Best Of Buddy Guy - The Millenium Collection,Blues,0.99,13.86,January
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Iron Maiden,A Real Live One,Metal,0.99,13.86,January
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Iron Maiden,Brave New World,Rock,0.99,13.86,January
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Iron Maiden,Dance Of Death,Heavy Metal,0.99,13.86,January
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Iron Maiden,Iron Maiden,Blues,0.99,13.86,January
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Iron Maiden,Killers,Heavy Metal,0.99,13.86,January
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Iron Maiden,Live After Death,Heavy Metal,0.99,13.86,January
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Iron Maiden,Live After Death,Metal,0.99,13.86,January
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Iron Maiden,Live At Donington 1992 (Disc 1),Rock,0.99,13.86,January
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Iron Maiden,Live At Donington 1992 (Disc 2),Rock,0.99,13.86,January
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Iron Maiden,No Prayer For The Dying,Metal,0.99,13.86,January
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,JET,Get Born,Alternative & Punk,0.99,13.86,Febuary
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Jamiroquai,The Return Of The Space Cowboy,Electronica/Dance,0.99,13.86,Febuary
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Joe Satriani,Surfing with the Alien (Remastered),Rock,0.99,13.86,Febuary
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Jota Quest,Jota Quest-1995,Latin,0.99,13.86,Febuary
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Judas Priest,Living After Midnight,Metal,0.99,13.86,Febuary
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Kiss,Unplugged [Live],Rock,0.99,13.86,Febuary
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Page & Plant,Walking Into Clarksdale,Rock,0.99,13.86,August
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Paul D'Ianno,The Beast Live,Rock,0.99,13.86,August
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Pearl Jam,Pearl Jam,Alternative & Punk,0.99,13.86,August
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Pearl Jam,Ten,Rock,0.99,13.86,August
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Pearl Jam,Vs.,Rock,0.99,13.86,August
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Pink Floyd,Dark Side Of The Moon,Rock,0.99,13.86,August
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Iron Maiden,A Matter of Life and Death,Rock,0.99,13.86,April
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Iron Maiden,A Real Dead One,Metal,0.99,13.86,April
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Iron Maiden,A Real Live One,Metal,0.99,13.86,April
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Iron Maiden,Dance Of Death,Heavy Metal,0.99,13.86,April
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Iron Maiden,Fear Of The Dark,Rock,0.99,13.86,April
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Iron Maiden,Iron Maiden,Blues,0.99,13.86,April
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Iron Maiden,Killers,Heavy Metal,0.99,13.86,April
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Iron Maiden,Live At Donington 1992 (Disc 1),Rock,0.99,13.86,April
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Lenny Kravitz,Greatest Hits,Rock,0.99,13.86,September
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Raul Seixas,Raul Seixas,Rock,0.99,13.86,September
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Rush,Retrospective I (1974-1980),Rock,0.99,13.86,September
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Santana,Santana - As Years Go By,Rock,0.99,13.86,September
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Santana,Santana Live,Rock,0.99,13.86,September
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Skank,O Samba Poconé,Rock,0.99,13.86,September
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,Lenny Kravitz,Greatest Hits,Reggae,0.99,13.86,October
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,Pearl Jam,Riot Act,Rock,0.99,13.86,October
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,Pearl Jam,Ten,Rock,0.99,13.86,October
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,Pink Floyd,Dark Side Of The Moon,Rock,0.99,13.86,October
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,Queen,News Of The World,Rock,0.99,13.86,October
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,R.E.M.,New Adventures In Hi-Fi,Rock,0.99,13.86,October
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,Joe Satriani,Surfing with the Alien (Remastered),Rock,0.99,13.86,October
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,Jorge Ben,Jorge Ben Jor 25 Anos,Latin,0.99,13.86,October
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,João Suplicy,Cafezinho,World,0.99,13.86,October
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,Led Zeppelin,BBC Sessions [Disc 2] [Live],Rock,0.99,13.86,October
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Foo Fighters,The Colour And The Shape,Rock,0.99,13.86,May
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Gilberto Gil,As Canções de Eu Tu Eles,Soundtrack,0.99,13.86,May
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Godsmack,Faceless,Metal,0.99,13.86,May
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Cidade Negra,Cidade Negra - Hits,Reggae,0.99,13.86,May
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Cláudio Zoli,Na Pista,Latin,0.99,13.86,May
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Frank Zappa & Captain Beefheart,Bongo Fury,Rock,0.99,13.86,May
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Led Zeppelin,BBC Sessions [Disc 1] [Live],Rock,0.99,13.86,May
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Metallica,Garage Inc. (Disc 1),Metal,0.99,13.86,May
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Queen,Greatest Hits II,Rock,0.99,13.86,May
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,Jamiroquai,Emergency On Planet Earth,Rock,0.99,13.86,May
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,Jamiroquai,Synkronized,R&B/Soul,0.99,13.86,May
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,Jamiroquai,The Return Of The Space Cowboy,Electronica/Dance,0.99,13.86,May
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,Joe Satriani,Surfing with the Alien (Remastered),Rock,0.99,13.86,May
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,Jorge Ben,Jorge Ben Jor 25 Anos,Latin,0.99,13.86,May
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,João Suplicy,Cafezinho,World,0.99,13.86,May
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Iron Maiden,Fear Of The Dark,Rock,0.99,13.86,June
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Iron Maiden,Iron Maiden,Blues,0.99,13.86,June
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Iron Maiden,Live After Death,Heavy Metal,0.99,13.86,June
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Iron Maiden,Live After Death,Metal,0.99,13.86,June
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Iron Maiden,Live At Donington 1992 (Disc 1),Rock,0.99,13.86,June
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Iron Maiden,Live At Donington 1992 (Disc 2),Rock,0.99,13.86,June
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Iron Maiden,No Prayer For The Dying,Metal,0.99,13.86,June
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Iron Maiden,Piece Of Mind,Metal,0.99,13.86,June
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Iron Maiden,Powerslave,Metal,0.99,13.86,June
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Iron Maiden,Rock In Rio [CD1],Metal,0.99,13.86,June
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Iron Maiden,Rock In Rio [CD2],Rock,0.99,13.86,June
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Iron Maiden,Seventh Son of a Seventh Son,Metal,0.99,13.86,June
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,The Clash,The Singles,Alternative & Punk,0.99,13.86,July
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,The Cult,Beyond Good And Evil,Rock,0.99,13.86,July
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,The Doors,The Doors,Rock,0.99,13.86,July
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,The Rolling Stones,"Hot Rocks, 1964-1971 (Disc 1)",Rock,0.99,13.86,July
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,The Tea Party,Tangents,Alternative & Punk,0.99,13.86,July
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,The Tea Party,Transmission,Alternative & Punk,0.99,13.86,July
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Metallica,...And Justice For All,Metal,0.99,13.86,July
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Metallica,St. Anger,Metal,0.99,13.86,July
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Milton Nascimento,Milton Nascimento Ao Vivo,Latin,0.99,13.86,July
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Motörhead,Ace Of Spades,Metal,0.99,13.86,July
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Nirvana,From The Muddy Banks Of The Wishkah [Live],Rock,0.99,13.86,July
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Nirvana,Nevermind,Rock,0.99,13.86,July
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,Pearl Jam,Live On Two Legs [Live],Rock,0.99,13.86,January
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,Pearl Jam,Pearl Jam,Alternative & Punk,0.99,13.86,January
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,Pearl Jam,Ten,Rock,0.99,13.86,January
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,Pearl Jam,Vs.,Rock,0.99,13.86,January
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,Pink Floyd,Dark Side Of The Moon,Rock,0.99,13.86,January
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,Planet Hemp,Os Cães Ladram Mas A Caravana Não Pára,Hip Hop/Rap,0.99,13.86,January
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Frank Zappa & Captain Beefheart,Bongo Fury,Rock,0.99,13.86,Febuary
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Metallica,Garage Inc. (Disc 1),Metal,0.99,13.86,Febuary
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Various Artists,Axé Bahia 2001,Pop,0.99,13.86,Febuary
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Various Artists,Carnaval 2001,Soundtrack,0.99,13.86,Febuary
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Falamansa,Deixa Entrar,Latin,0.99,13.86,December
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Foo Fighters,In Your Honor [Disc 1],Rock,0.99,13.86,December
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Foo Fighters,One By One,Alternative & Punk,0.99,13.86,December
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Foo Fighters,The Colour And The Shape,Rock,0.99,13.86,December
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Gilberto Gil,As Canções de Eu Tu Eles,Soundtrack,0.99,13.86,December
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,The Rolling Stones,"Hot Rocks, 1964-1971 (Disc 1)",Rock,0.99,13.86,December
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,The Rolling Stones,Voodoo Lounge,Rock,0.99,13.86,December
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,The Tea Party,Transmission,Alternative & Punk,0.99,13.86,December
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,Tim Maia,Serie Sem Limite (Disc 1),Latin,0.99,13.86,December
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,Tim Maia,Serie Sem Limite (Disc 2),Latin,0.99,13.86,December
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,Cláudio Zoli,Na Pista,Latin,0.99,13.86,August
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,Frank Zappa & Captain Beefheart,Bongo Fury,Rock,0.99,13.86,August
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,Various Artists,Axé Bahia 2001,Pop,0.99,13.86,August
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,Various Artists,Carnaval 2001,Soundtrack,0.99,13.86,August
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Miles Davis,Miles Ahead,Jazz,0.99,13.86,April
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Milton Nascimento,Minas,Latin,0.99,13.86,April
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Mônica Marianno,Demorou...,World,0.99,13.86,April
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Nirvana,Nevermind,Rock,0.99,13.86,April
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Scorpions,20th Century Masters - The Millennium Collection: The Best of Scorpions,Rock,0.99,10.91,October
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Tim Maia,Serie Sem Limite (Disc 2),Latin,0.99,10.91,July
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,Iron Maiden,Virtual XI,Rock,0.99,8.91,October
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,Jamiroquai,The Return Of The Space Cowboy,Electronica/Dance,0.99,8.91,October
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Stevie Ray Vaughan & Double Trouble,In Step,Blues,0.99,8.91,October
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,"Terry Bozzio, Tony Levin & Steve Stevens",[1997] Black Light Syndrome,Rock,0.99,8.91,October
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,The Black Crowes,Live [Disc 1],Blues,0.99,8.91,October
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,Creedence Clearwater Revival,"Chronicle, Vol. 1",Rock,0.99,8.91,October
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Led Zeppelin,Led Zeppelin III,Rock,0.99,8.91,November
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Led Zeppelin,Physical Graffiti [Disc 2],Rock,0.99,8.91,November
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Led Zeppelin,The Song Remains The Same (Disc 2),Rock,0.99,8.91,November
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Legião Urbana,Mais Do Mesmo,Latin,0.99,8.91,November
+Puja,Srivastava,India,Bangalore,State is Unknown,Jane,Peacock,833,R.E.M. Feat. Kate Pearson,Out Of Time,Alternative & Punk,0.99,8.91,May
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,"Terry Bozzio, Tony Levin & Steve Stevens",[1997] Black Light Syndrome,Rock,0.99,8.91,March
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,The Black Crowes,Live [Disc 1],Blues,0.99,8.91,March
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Metallica,Load,Metal,0.99,8.91,March
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Metallica,Master Of Puppets,Metal,0.99,8.91,March
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Metallica,Ride The Lightning,Metal,0.99,8.91,March
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,Led Zeppelin,Houses Of The Holy,Rock,0.99,8.91,June
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,Led Zeppelin,IV,Rock,0.99,8.91,June
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,Led Zeppelin,Led Zeppelin I,Rock,0.99,8.91,June
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Stone Temple Pilots,Core,Rock,0.99,8.91,June
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,"Terry Bozzio, Tony Levin & Steve Stevens",[1997] Black Light Syndrome,Rock,0.99,8.91,June
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,The Clash,The Singles,Alternative & Punk,0.99,8.91,June
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,AC/DC,Let There Be Rock,Rock,0.99,8.91,July
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Accept,Balls to the Wall,Rock,0.99,8.91,July
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Eugene Ormandy,Respighi:Pines of Rome,Classical,0.99,8.91,July
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Metallica,St. Anger,Metal,0.99,8.91,December
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,Guns N' Roses,Appetite for Destruction,Rock,0.99,8.91,December
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,Iron Maiden,A Matter of Life and Death,Rock,0.99,8.91,December
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,The Doors,The Doors,Rock,0.99,8.91,December
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Os Paralamas Do Sucesso,Acústico MTV,Latin,0.99,8.91,August
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Ozzy Osbourne,No More Tears (Remastered),Rock,0.99,8.91,August
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,Led Zeppelin,The Song Remains The Same (Disc 1),Rock,0.99,8.91,August
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,AC/DC,Let There Be Rock,Rock,0.99,8.91,April
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Antônio Carlos Jobim,Warner 25 Anos,Jazz,0.99,8.91,April
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,R.E.M.,Green,Alternative & Punk,0.99,8.91,September
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Metallica,...And Justice For All,Metal,0.99,8.91,September
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Motörhead,Ace Of Spades,Metal,0.99,8.91,September
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Titãs,Volume Dois,Alternative & Punk,0.99,8.91,November
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Rush,Retrospective I (1974-1980),Rock,0.99,8.91,November
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,AC/DC,For Those About To Rock We Salute You,Rock,0.99,8.91,November
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,"Academy of St. Martin in the Fields, Sir Neville Marriner & Thurston Dart",Bach: Orchestral Suites Nos. 1 - 4,Classical,0.99,8.91,November
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,Accept,Restless and Wild,Rock,0.99,8.91,November
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,Amy Winehouse,Frank,Pop,0.99,8.91,November
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,Emerson String Quartet,Schubert: The Late String Quartets & String Quintet (3 CD's),Classical,0.99,8.91,November
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,"Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir",Purcell: Music for the Queen Mary,Classical,0.99,8.91,November
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,Göteborgs Symfoniker & Neeme Järvi,Nielsen: The Six Symphonies,Classical,0.99,8.91,November
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Cidade Negra,Cidade Negra - Hits,Reggae,0.99,8.91,May
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,U2,Zooropa,Rock,0.99,8.91,May
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Van Halen,Van Halen,Rock,0.99,8.91,May
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,Iron Maiden,Rock In Rio [CD2],Rock,0.99,8.91,May
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,Iron Maiden,Somewhere in Time,Metal,0.99,8.91,May
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,Iron Maiden,The Number of The Beast,Metal,0.99,8.91,May
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,Iron Maiden,Dance Of Death,Heavy Metal,0.99,8.91,June
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Metallica,Ride The Lightning,Metal,0.99,8.91,July
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Deep Purple,Deep Purple In Rock,Rock,0.99,8.91,July
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Deep Purple,Fireball,Rock,0.99,8.91,July
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Led Zeppelin,Led Zeppelin II,Rock,0.99,8.91,Febuary
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Led Zeppelin,Physical Graffiti [Disc 2],Rock,0.99,8.91,Febuary
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Led Zeppelin,Presence,Rock,0.99,8.91,Febuary
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Led Zeppelin,The Song Remains The Same (Disc 1),Rock,0.99,8.91,Febuary
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Led Zeppelin,The Song Remains The Same (Disc 2),Rock,0.99,8.91,Febuary
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,Raimundos,Cesta Básica,Alternative & Punk,0.99,8.91,Febuary
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,Cássia Eller,Cássia Eller - Coleção Sem Limite [Disc 2],Latin,0.99,8.91,Febuary
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,Various Artists,Vozes do MPB,Latin,0.99,8.91,Febuary
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,U2,The Best Of 1980-1990,Rock,0.99,8.91,August
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Deep Purple,Come Taste The Band,Rock,0.99,8.91,April
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Deep Purple,Deep Purple In Rock,Rock,0.99,8.91,April
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Deep Purple,Fireball,Rock,0.99,8.91,April
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Deep Purple,Machine Head,Rock,0.99,8.91,April
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Deep Purple,Purpendicular,Rock,0.99,8.91,April
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,Iron Maiden,A Real Live One,Metal,0.99,8.91,September
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Pearl Jam,Riot Act,Rock,0.99,8.91,October
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Faith No More,The Real Thing,Alternative & Punk,0.99,8.91,May
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Foo Fighters,In Your Honor [Disc 1],Rock,0.99,8.91,May
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,Faith No More,King For A Day Fool For A Lifetime,Rock,0.99,8.91,March
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Deep Purple,MK III The Final Concerts [Disc 1],Rock,0.99,8.91,March
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Led Zeppelin,Physical Graffiti [Disc 1],Rock,0.99,8.91,March
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,Green Day,International Superhits,Alternative & Punk,0.99,8.91,June
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,Os Mutantes,Minha História,Alternative & Punk,0.99,8.91,June
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,Jimi Hendrix,Are You Experienced?,Rock,0.99,8.91,July
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Ozzy Osbourne,Tribute,Metal,0.99,8.91,January
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Paul D'Ianno,The Beast Live,Rock,0.99,8.91,January
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,Audioslave,Audioslave,Rock,0.99,8.91,January
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,Iron Maiden,The X Factor,Rock,0.99,8.91,January
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,Jamiroquai,Emergency On Planet Earth,Rock,0.99,8.91,January
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Van Halen,Diver Down,Rock,0.99,8.91,Febuary
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Velvet Revolver,Contraband,Rock,0.99,8.91,Febuary
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Caetano Veloso,Sozinho Remix Ao Vivo,Latin,0.99,8.91,December
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,Faith No More,Angel Dust,Alternative & Punk,0.99,8.91,August
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,Ozzy Osbourne,Diary of a Madman (Remastered),Rock,0.99,8.91,April
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Titãs,Acústico,Alternative & Punk,0.99,6.94,January
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Queen,Greatest Hits I,Rock,0.99,5.94,September
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,R.E.M.,Green,Alternative & Punk,0.99,5.94,September
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,R.E.M. Feat. Kate Pearson,Out Of Time,Alternative & Punk,0.99,5.94,September
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,Queen,Greatest Hits II,Rock,0.99,5.94,September
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,Body Count,Body Count,Alternative & Punk,0.99,5.94,November
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Led Zeppelin,IV,Rock,0.99,5.94,November
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Led Zeppelin,Led Zeppelin III,Rock,0.99,5.94,November
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,R.E.M. Feat. Kate Pearson,Out Of Time,Alternative & Punk,0.99,5.94,May
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Faith No More,The Real Thing,Alternative & Punk,0.99,5.94,May
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,"Terry Bozzio, Tony Levin & Steve Stevens",[1997] Black Light Syndrome,Rock,0.99,5.94,March
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Gene Krupa,Up An' Atom,Jazz,0.99,5.94,January
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Various Artists,Vozes do MPB,Latin,0.99,5.94,January
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Iron Maiden,Somewhere in Time,Metal,0.99,5.94,January
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,Van Halen,Diver Down,Rock,0.99,5.94,Febuary
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,U2,B-Sides 1980-1990,Rock,0.99,5.94,December
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Latin,0.99,5.94,April
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Iron Maiden,Somewhere in Time,Metal,0.99,5.94,October
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Iron Maiden,The Number of The Beast,Metal,0.99,5.94,October
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Iron Maiden,The Number of The Beast,Rock,0.99,5.94,October
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,U2,Zooropa,Rock,0.99,5.94,May
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,Caetano Veloso,Sozinho Remix Ao Vivo,Latin,0.99,5.94,May
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Soundgarden,A-Sides,Rock,0.99,5.94,June
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Stone Temple Pilots,Core,Rock,0.99,5.94,June
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,Adrian Leaper & Doreen de Feis,Górecki: Symphony No. 3,Classical,0.99,5.94,July
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,Kent Nagano and Orchestre de l'Opéra de Lyon,Weill: The Seven Deadly Sins,Classical,0.99,5.94,July
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,Martin Roscoe,"Szymanowski: Piano Works, Vol. 1",Classical,0.99,5.94,July
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,Philharmonia Orchestra & Sir Neville Marriner,Mendelssohn: A Midsummer Night's Dream,Classical,0.99,5.94,July
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Ozzy Osbourne,Bark at the Moon (Remastered),Rock,0.99,5.94,January
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Ozzy Osbourne,No More Tears (Remastered),Rock,0.99,5.94,January
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Ozzy Osbourne,Tribute,Metal,0.99,5.94,January
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Metallica,Load,Metal,0.99,5.94,December
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Godsmack,Faceless,Metal,0.99,5.94,December
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,"Terry Bozzio, Tony Levin & Steve Stevens",[1997] Black Light Syndrome,Rock,0.99,5.94,December
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Eric Clapton,Unplugged,Blues,0.99,5.94,August
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,U2,Pop,Rock,0.99,5.94,August
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,U2,The Best Of 1980-1990,Rock,0.99,5.94,August
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Creedence Clearwater Revival,"Chronicle, Vol. 2",Rock,0.99,5.94,April
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Cássia Eller,Cássia Eller - Sem Limite [Disc 1],Latin,0.99,5.94,April
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Metallica,ReLoad,Metal,0.99,5.94,September
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,Amy Winehouse,Frank,Pop,0.99,5.94,October
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,Berliner Philharmoniker & Herbert Von Karajan,Grieg: Peer Gynt Suites & Sibelius: Pelléas et Mélisande,Classical,0.99,5.94,October
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,Berliner Philharmoniker & Herbert Von Karajan,Mozart: Symphonies Nos. 40 & 41,Classical,0.99,5.94,October
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,Tim Maia,Serie Sem Limite (Disc 1),Latin,0.99,5.94,November
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Metallica,Garage Inc. (Disc 2),Metal,0.99,5.94,March
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,Djavan,Djavan Ao Vivo - Vol. 1,Latin,0.99,5.94,March
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Led Zeppelin,Coda,Rock,0.99,5.94,Febuary
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Led Zeppelin,In Through The Out Door,Rock,0.99,5.94,Febuary
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,Buddy Guy,The Best Of Buddy Guy - The Millenium Collection,Blues,0.99,5.94,August
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,Accept,Restless and Wild,Rock,0.99,5.94,April
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,Emerson String Quartet,Schubert: The Late String Quartets & String Quintet (3 CD's),Classical,0.99,5.94,April
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,Michele Campanella,Liszt - 12 Études D'Execution Transcendante,Classical,0.99,5.94,April
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Tim Maia,Serie Sem Limite (Disc 2),Latin,0.99,5.94,April
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Antal Doráti & London Symphony Orchestra,"Tchaikovsky: 1812 Festival Overture, Op.49, Capriccio Italien & Beethoven: Wellington's Victory",Classical,0.99,3.96,October
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,"Felix Schmidt, London Symphony Orchestra & Rafael Frühbeck de Burgos",Elgar: Cello Concerto & Vaughan Williams: Fantasias,Classical,0.99,3.96,October
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Michael Tilson Thomas & San Francisco Symphony,Berlioz: Symphonie Fantastique,Classical,0.99,3.96,October
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Michael Tilson Thomas & San Francisco Symphony,Prokofiev: Romeo & Juliet,Classical,0.99,3.96,October
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Various Artists,Vozes do MPB,Latin,0.99,3.96,October
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Faith No More,Album Of The Year,Alternative & Punk,0.99,3.96,May
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Judas Priest,Living After Midnight,Metal,0.99,3.96,June
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,"Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir",Purcell: Music for the Queen Mary,Classical,0.99,3.96,April
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,Julian Bream,"J.S. Bach: Chaconne, Suite in E Minor, Partita in E Major & Prelude, Fugue and Allegro",Classical,0.99,3.96,April
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,"Roger Norrington, London Classical Players",Purcell: The Fairy Queen,Classical,0.99,3.96,April
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,The King's Singers,English Renaissance,Classical,0.99,3.96,April
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Queen,News Of The World,Rock,0.99,3.96,May
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,R.E.M.,Green,Alternative & Punk,0.99,3.96,May
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,U2,Zooropa,Rock,0.99,3.96,Febuary
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Led Zeppelin,Led Zeppelin III,Rock,0.99,3.96,August
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Gilberto Gil,Quanta Gente Veio ver--Bônus De Carnaval,Jazz,0.99,3.96,April
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Ozzy Osbourne,Blizzard of Ozz,Rock,0.99,3.96,October
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Ozzy Osbourne,Diary of a Madman (Remastered),Rock,0.99,3.96,October
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Ozzy Osbourne,No More Tears (Remastered),Rock,0.99,3.96,October
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Ozzy Osbourne,Tribute,Metal,0.99,3.96,October
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,U2,The Best Of 1980-1990,Rock,0.99,3.96,May
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,Iron Maiden,Piece Of Mind,Metal,0.99,3.96,May
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Latin,0.99,3.96,January
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Eric Clapton,Unplugged,Latin,0.99,3.96,December
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,Olodum,Olodum,Latin,0.99,3.96,August
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Bruce Dickinson,Chemical Wedding,Metal,0.99,3.96,August
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,Dread Zeppelin,Un-Led-Ed,Rock,0.99,2.98,June
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Academy of St. Martin in the Fields & Sir Neville Marriner,The World of Classical Favourites,Classical,0.99,1.98,October
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,Berliner Philharmoniker & Hans Rosbaud,Sibelius: Finlandia,Classical,0.99,1.98,October
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,"Emanuel Ax, Eugene Ormandy & Philadelphia Orchestra",Chopin: Piano Concertos Nos. 1 & 2,Classical,0.99,1.98,October
+Manoj,Pareek,India,Delhi,State is Unknown,Jane,Peacock,833,Orchestra of The Age of Enlightenment,Bach: The Brandenburg Concertos,Classical,0.99,1.98,October
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,Metallica,Black Album,Metal,0.99,1.98,March
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,Metallica,Garage Inc. (Disc 2),Metal,0.99,1.98,March
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,Spyro Gyra,Morning Dance,Jazz,0.99,1.98,March
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,Stevie Ray Vaughan & Double Trouble,In Step,Blues,0.99,1.98,March
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Green Day,International Superhits,Alternative & Punk,0.99,1.98,March
+Tim,Goyer,USA,Cupertino,CA,Jane,Peacock,833,Spyro Gyra,Heart of the Night,Jazz,0.99,1.98,March
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Smashing Pumpkins,Rotten Apples: Greatest Hits,Alternative & Punk,0.99,1.98,June
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Soundgarden,A-Sides,Rock,0.99,1.98,June
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Iron Maiden,The Number of The Beast,Metal,0.99,1.98,July
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Iron Maiden,The X Factor,Rock,0.99,1.98,July
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,Planet Hemp,Os Cães Ladram Mas A Caravana Não Pára,Hip Hop/Rap,0.99,1.98,September
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,Queen,Greatest Hits I,Rock,0.99,1.98,September
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Black Sabbath,Black Sabbath Vol. 4 (Remaster),Metal,0.99,1.98,November
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Body Count,Body Count,Alternative & Punk,0.99,1.98,November
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Marvin Gaye,Seek And Shall Find: More Of The Best (1963-1981),R&B/Soul,0.99,1.98,July
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Men At Work,The Best Of Men At Work,Rock,0.99,1.98,July
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,Os Paralamas Do Sucesso,Acústico MTV,Latin,0.99,1.98,January
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,Os Paralamas Do Sucesso,Arquivo II,Latin,0.99,1.98,January
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Led Zeppelin,Led Zeppelin I,Rock,0.99,1.98,August
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Led Zeppelin,Led Zeppelin II,Rock,0.99,1.98,August
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Eric Clapton,The Cream Of Clapton,Blues,0.99,1.98,August
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Eric Clapton,Unplugged,Blues,0.99,1.98,August
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Otto Klemperer & Philharmonia Orchestra,Beethoven: Symphony No. 6 'Pastoral' Etc.,Classical,0.99,1.98,April
+Camille,Bernard,France,Paris,State is Unknown,Margaret,Park,775,Yehudi Menuhin,Bartok: Violin & Viola Concertos,Classical,0.99,1.98,April
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Accept,Balls to the Wall,Rock,0.99,1.98,January
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,Accept,Restless and Wild,Rock,0.99,1.98,January
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,"Academy of St. Martin in the Fields, Sir Neville Marriner & Thurston Dart",Bach: Orchestral Suites Nos. 1 - 4,Classical,0.99,1.98,April
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,The 12 Cellists of The Berlin Philharmonic,South American Getaway,Classical,0.99,1.98,April
+François,Tremblay,Canada,Montréal,QC,Jane,Peacock,833,Smashing Pumpkins,Judas 0: B-Sides and Rarities,Alternative & Punk,0.99,0.99,September
+Hugh,O'Reilly,Ireland,Dublin,Dublin,Jane,Peacock,833,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Latin,0.99,0.99,September
+Edward,Francis,Canada,Ottawa,ON,Jane,Peacock,833,Iron Maiden,Rock In Rio [CD2],Rock,0.99,0.99,October
+Emma,Jones,United Kingdom,London,State is Unknown,Jane,Peacock,833,Elis Regina,Elis Regina-Minha História,Latin,0.99,0.99,November
+Luís,Gonçalves,Brazil,São José dos Campos,SP,Jane,Peacock,833,U2,Rattle And Hum,Rock,0.99,0.99,May
+Roberto,Almeida,Brazil,Rio de Janeiro,RJ,Jane,Peacock,833,Guns N' Roses,Use Your Illusion I,Rock,0.99,0.99,May
+Terhi,Hämäläinen,Finland,Helsinki,State is Unknown,Jane,Peacock,833,Queen,News Of The World,Rock,0.99,0.99,May
+Isabelle,Mercier,France,Dijon,State is Unknown,Jane,Peacock,833,Spyro Gyra,Morning Dance,Jazz,0.99,0.99,March
+Niklas,Schröder,Germany,Berlin,State is Unknown,Jane,Peacock,833,Calexico,Carried to Dust (Bonus Track Version),Alternative,0.99,0.99,March
+Ladislav,Kovács,Hungary,Budapest,State is Unknown,Jane,Peacock,833,O Terço,Compositores,Rock,0.99,0.99,July
+Michelle,Brooks,USA,New York,NY,Jane,Peacock,833,Amy Winehouse,Back to Black,R&B/Soul,0.99,0.99,July
+Robert,Brown,Canada,Toronto,ON,Jane,Peacock,833,Led Zeppelin,Led Zeppelin I,Rock,0.99,0.99,July
+Fynn,Zimmermann,Germany,Frankfurt,State is Unknown,Jane,Peacock,833,Chico Buarque,Minha Historia,Latin,0.99,0.99,January
+Phil,Hughes,United Kingdom,London,State is Unknown,Jane,Peacock,833,Gene Krupa,Up An' Atom,Jazz,0.99,0.99,January
+Jennifer,Peterson,Canada,Vancouver,BC,Jane,Peacock,833,Antônio Carlos Jobim,Chill: Brazil (Disc 2),Latin,0.99,0.99,December
+Wyatt,Girard,France,Bordeaux,State is Unknown,Jane,Peacock,833,Titãs,Acústico,Alternative & Punk,0.99,0.99,December
+Frank,Ralston,USA,Chicago,IL,Jane,Peacock,833,Planet Hemp,Os Cães Ladram Mas A Caravana Não Pára,Hip Hop/Rap,0.99,0.99,August
+Ellie,Sullivan,Canada,Yellowknife,NT,Jane,Peacock,833,Faith No More,Album Of The Year,Alternative & Punk,0.99,0.99,April
+Madalena,Sampaio,Portugal,Porto,State is Unknown,Margaret,Park,775,Metallica,Garage Inc. (Disc 1),Metal,0.99,0.99,September
+Bjørn,Hansen,Norway,Oslo,State is Unknown,Margaret,Park,775,Stone Temple Pilots,Core,Rock,0.99,0.99,November
+Dan,Miller,USA,Mountain View,CA,Margaret,Park,775,U2,All That You Can't Leave Behind,Rock,0.99,0.99,November
+Kara,Nielsen,Denmark,Copenhagen,State is Unknown,Margaret,Park,775,Led Zeppelin,Houses Of The Holy,Rock,0.99,0.99,November
+Mark,Taylor,Australia,Sidney,NSW,Margaret,Park,775,Kiss,Greatest Kiss,Rock,0.99,0.99,May
+Patrick,Gray,USA,Tucson,AZ,Margaret,Park,775,Metallica,Black Album,Metal,0.99,0.99,March
+John,Gordon,USA,Boston,MA,Margaret,Park,775,Smashing Pumpkins,Rotten Apples: Greatest Hits,Alternative & Punk,0.99,0.99,June
+João,Fernandes,Portugal,Lisbon,State is Unknown,Margaret,Park,775,Various Artists,Vozes do MPB,Latin,0.99,0.99,June
+Fernanda,Ramos,Brazil,Brasília,DF,Margaret,Park,775,Eric Clapton,The Cream Of Clapton,Blues,0.99,0.99,July
+Eduardo,Martins,Brazil,São Paulo,SP,Margaret,Park,775,Iron Maiden,Powerslave,Metal,0.99,0.99,January
+Richard,Cunningham,USA,Fort Worth,TX,Margaret,Park,775,Os Paralamas Do Sucesso,Acústico MTV,Latin,0.99,0.99,January
+Aaron,Mitchell,Canada,Winnipeg,MB,Margaret,Park,775,Djavan,Djavan Ao Vivo - Vol. 02,Latin,0.99,0.99,Febuary
+Frank,Harris,USA,Mountain View,CA,Margaret,Park,775,Spyro Gyra,Heart of the Night,Jazz,0.99,0.99,Febuary
+František,Wichterlová,Czech Republic,Prague,State is Unknown,Margaret,Park,775,R.E.M.,Green,Alternative & Punk,0.99,0.99,Febuary
+Daan,Peeters,Belgium,Brussels,State is Unknown,Margaret,Park,775,Metallica,Master Of Puppets,Metal,0.99,0.99,August
+Diego,Gutiérrez,Argentina,Buenos Aires,State is Unknown,Margaret,Park,775,Bruce Dickinson,Chemical Wedding,Metal,0.99,0.99,August
+Dominique,Lefebvre,France,Paris,State is Unknown,Margaret,Park,775,U2,How To Dismantle An Atomic Bomb,Rock,0.99,0.99,August
+Heather,Leacock,USA,Orlando,FL,Margaret,Park,775,Tim Maia,Serie Sem Limite (Disc 1),Latin,0.99,0.99,April
+Stanisław,Wójcik,Poland,Warsaw,State is Unknown,Margaret,Park,775,Iron Maiden,Live At Donington 1992 (Disc 2),Rock,0.99,0.99,April
+Luis,Rojas,Chile,Santiago,State is Unknown,Steve,Johnson,720,Chicago Symphony Orchestra & Fritz Reiner,Scheherazade,Classical,0.99,0.99,October
+Marc,Dubois,France,Lyon,State is Unknown,Steve,Johnson,720,The Tea Party,Tangents,Alternative & Punk,0.99,0.99,October
+Mark,Philips,Canada,Edmonton,AB,Steve,Johnson,720,Toquinho & Vinícius,Vinícius De Moraes - Sem Limite,Bossa Nova,0.99,0.99,October
+Victor,Stevens,USA,Madison,WI,Steve,Johnson,720,R.E.M.,The Best Of R.E.M.: The IRS Years,Alternative & Punk,0.99,0.99,October
+Hannah,Schneider,Germany,Berlin,State is Unknown,Steve,Johnson,720,Black Sabbath,Black Sabbath Vol. 4 (Remaster),Metal,0.99,0.99,November
+Julia,Barnett,USA,Salt Lake City,UT,Steve,Johnson,720,Judas Priest,Living After Midnight,Metal,0.99,0.99,May
+Alexandre,Rocha,Brazil,São Paulo,SP,Steve,Johnson,720,Gilberto Gil,Quanta Gente Veio Ver (Live),Latin,0.99,0.99,March
+Steve,Murray,United Kingdom,Edinburgh,State is Unknown,Steve,Johnson,720,Creedence Clearwater Revival,"Chronicle, Vol. 1",Rock,0.99,0.99,March
+Astrid,Gruber,Austria,Vienne,State is Unknown,Steve,Johnson,720,Marvin Gaye,Seek And Shall Find: More Of The Best (1963-1981),R&B/Soul,0.99,0.99,June
+Enrique,Muñoz,Spain,Madrid,State is Unknown,Steve,Johnson,720,Iron Maiden,The Number of The Beast,Metal,0.99,0.99,June
+Leonie,Köhler,Germany,Stuttgart,State is Unknown,Steve,Johnson,720,The Who,My Generation - The Very Best Of The Who,Rock,0.99,0.99,July
+Kathy,Chase,USA,Reno,NV,Steve,Johnson,720,U2,The Best Of 1980-1990,Rock,0.99,0.99,January
+Johannes,Van der Berg,Netherlands,Amsterdam,VV,Steve,Johnson,720,Kiss,Unplugged [Live],Rock,0.99,0.99,Febuary
+Lucas,Mancini,Italy,Rome,RM,Steve,Johnson,720,Metallica,Kill 'Em All,Metal,0.99,0.99,December
+Martha,Silk,Canada,Halifax,NS,Steve,Johnson,720,Eric Clapton,Unplugged,Latin,0.99,0.99,December
+Joakim,Johansson,Sweden,Stockholm,State is Unknown,Steve,Johnson,720,Green Day,American Idiot,Alternative & Punk,0.99,0.99,August
+Helena,Holý,Czech Republic,Prague,State is Unknown,Steve,Johnson,720,Olodum,Olodum,Latin,0.99,0.99,April
+Jack,Smith,USA,Redmond,WA,Steve,Johnson,720,Caetano Veloso,Prenda Minha,Latin,0.99,0.99,April
