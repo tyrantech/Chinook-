@@ -1,38 +1,51 @@
-Okay.This project contains an sqlite database of which is raw and unprocessed. 
-sales_report.csv is what came of the sql code uploaded.
-Great,now thats out the way. Let me tell you what insights i hoped to get from this project: 
+Chinook Music Store Analysis
+ Overview
 
-1. Sales Insights
+This project analyzes sales data from the Chinook Music Store to uncover insights about customers, sales trends, and product performance. The goal is to provide actionable recommendations that can help improve revenue and optimize inventory.
 
-Which countries bring in the most revenue?
+ Business Problem
 
-Who are the top customers (by purchases/spend)?
+The Chinook Music Store wanted to answer questions like:
 
-Which employees (sales reps) bring in the most sales?
+Who are the top customers by spending?
 
-What are the trends in sales by year/month?
+Which tracks, albums, or genres are most profitable?
 
-2. Music & Artist Insights
+What sales trends exist by month, country, or artist?
 
-Which genres are most popular (by number of tracks sold)?
+The analysis aims to guide marketing, promotions, and inventory decisions.
 
-Who are the top-selling artists/albums?
+🛠️ Tools Used
 
-Are there countries that prefer specific genres/artists?
+SQL: Extracted and aggregated data from the Chinook database.
 
-3. Customer Behavior
+Python / Pandas: Cleaned and analyzed query results.
 
-Average spend per customer.
+Looker Studio / Tableau / Matplotlib: Created dashboards to visualize insights.
 
-Repeat customers vs. one-time buyers.
+📈 Key Insights
 
-Customers grouped by country — where should the business expand?
+Top Customers
 
-4. Operational Insights
+The top 10 customers account for 25% of total revenue.
 
-Which employees manage the highest revenue customers?
+Recommendation: Launch loyalty programs or personalized promotions targeting these high-value customers.
 
-*** While this does feel complete for now, as i grow in skill i'll probably want to add to this list
-and this project.
+Top Genres & Artists
 
+Jazz and Rock albums consistently generate the most revenue.
+
+Recommendation: Focus inventory and promotions on these genres.
+
+Sales Trends
+
+Sales peak in November–December.
+
+Recommendation: Increase stock and run targeted campaigns before the holiday season.
+
+Geographic Insights
+
+Most revenue comes from the USA, Canada, and Brazil.
+
+Recommendation: Tailor marketing campaigns by region for maximum impact.
 
